@@ -1,0 +1,539 @@
+{
+  "library": "lofi",
+  "bitrate": "112k",
+  "tracks": [
+    {
+      "id": "lofi:holiznacc0--2-hour-delay",
+      "file": "audio/holiznacc0--2-hour-delay.mp3",
+      "title": "2 Hour Delay",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/2-hour-delay-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/2-hour-delay-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--winter-blues",
+      "file": "audio/holiznacc0--winter-blues.mp3",
+      "title": "Winter Blues",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/winter-blues/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/winter-blues/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--first-snow",
+      "file": "audio/holiznacc0--first-snow.mp3",
+      "title": "First Snow",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/first-snowmp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/first-snowmp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--snow-drift",
+      "file": "audio/holiznacc0--snow-drift.mp3",
+      "title": "Snow Drift",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/snow-drift/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/snow-drift/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--fire-place",
+      "file": "audio/holiznacc0--fire-place.mp3",
+      "title": "Fire Place",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/fire-place/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/fire-place/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--when-time-called-me-darling",
+      "file": "audio/holiznacc0--when-time-called-me-darling.mp3",
+      "title": "When Time Called Me Darling",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-time-called-me-darling-lofi-relaxing-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-time-called-me-darling-lofi-relaxing-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--one-night-in-france",
+      "file": "audio/holiznacc0--one-night-in-france.mp3",
+      "title": "One Night In France",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-night-in-france-lofi-nostalgic-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-night-in-france-lofi-nostalgic-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--still-life",
+      "file": "audio/holiznacc0--still-life.mp3",
+      "title": "Still Life",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/still-life-lofi-chill-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/still-life-lofi-chill-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--moon-unit",
+      "file": "audio/holiznacc0--moon-unit.mp3",
+      "title": "Moon Unit",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/moon-unit-lofi-reflection-dreamy/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/moon-unit-lofi-reflection-dreamy/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--lucid",
+      "file": "audio/holiznacc0--lucid.mp3",
+      "title": "Lucid",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/lucid-lofi-dreamy-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/lucid-lofi-dreamy-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--warm-fuzz",
+      "file": "audio/holiznacc0--warm-fuzz.mp3",
+      "title": "Warm Fuzz",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/warm-fuzz-lofi-retro/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/warm-fuzz-lofi-retro/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ease-into-night",
+      "file": "audio/holiznacc0--ease-into-night.mp3",
+      "title": "Ease into Night",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ease-into-night-lofi-relax-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ease-into-night-lofi-relax-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--never-sleeping",
+      "file": "audio/holiznacc0--never-sleeping.mp3",
+      "title": "Never Sleeping",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/never-sleeping-lofi-dark-sad/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/never-sleeping-lofi-dark-sad/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--color-of-a-soul",
+      "file": "audio/holiznacc0--color-of-a-soul.mp3",
+      "title": "Color Of A Soul",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/color-of-a-soul-lofi-calm-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/color-of-a-soul-lofi-calm-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--dreamy-reverie",
+      "file": "audio/holiznacc0--dreamy-reverie.mp3",
+      "title": "Dreamy Reverie",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamy-reverie-lofi-nostalgic-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamy-reverie-lofi-nostalgic-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--waiting-around",
+      "file": "audio/holiznacc0--waiting-around.mp3",
+      "title": "Waiting Around",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/waiting-around-lofi-calm/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/waiting-around-lofi-calm/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--reminders",
+      "file": "audio/holiznacc0--reminders.mp3",
+      "title": "Reminders",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/reminders-lofi-calm-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/reminders-lofi-calm-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ocean-memory",
+      "file": "audio/holiznacc0--ocean-memory.mp3",
+      "title": "Ocean Memory",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/ocean-memory/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/ocean-memory/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--washed-up",
+      "file": "audio/holiznacc0--washed-up.mp3",
+      "title": "Washed Up",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--cold-salt-water",
+      "file": "audio/holiznacc0--cold-salt-water.mp3",
+      "title": "Cold (Salt) Water",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/cold-salt-water/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/cold-salt-water/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--jazz-for-the-soul",
+      "file": "audio/ketsa--jazz-for-the-soul.mp3",
+      "title": "Jazz For The Soul",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--drifting-space-jazz",
+      "file": "audio/ketsa--drifting-space-jazz.mp3",
+      "title": "Drifting Space Jazz",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/drifting-space-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/drifting-space-jazz/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--jazz-for-the-solstice",
+      "file": "audio/ketsa--jazz-for-the-solstice.mp3",
+      "title": "Jazz for the Solstice",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-solstice/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-solstice/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--her-memory-fading",
+      "file": "audio/ketsa--her-memory-fading.mp3",
+      "title": "Her Memory Fading",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/her-memory-fading/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/her-memory-fading/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--dawn-faded",
+      "file": "audio/ketsa--dawn-faded.mp3",
+      "title": "Dawn Faded",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/dawn-faded/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/dawn-faded/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--longer-wait",
+      "file": "audio/ketsa--longer-wait.mp3",
+      "title": "Longer Wait",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/longer-wait/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/longer-wait/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--still-dreams",
+      "file": "audio/ketsa--still-dreams.mp3",
+      "title": "Still Dreams",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/still-dreams/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/still-dreams/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--where-dreams-drift",
+      "file": "audio/ketsa--where-dreams-drift.mp3",
+      "title": "Where Dreams Drift",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/where-dreams-drift/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/where-dreams-drift/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--soul-syrup",
+      "file": "audio/ketsa--soul-syrup.mp3",
+      "title": "Soul Syrup",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/soul-syrup/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/soul-syrup/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--ease-back",
+      "file": "audio/ketsa--ease-back.mp3",
+      "title": "Ease Back",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/ease-back/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/ease-back/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--tide-turns",
+      "file": "audio/ketsa--tide-turns.mp3",
+      "title": "Tide Turns",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/tide-turns/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/tide-turns/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--machine-ghosts",
+      "file": "audio/ketsa--machine-ghosts.mp3",
+      "title": "Machine Ghosts",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/machine-ghosts/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/machine-ghosts/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--amber-streetlight",
+      "file": "audio/blue-dot-sessions--amber-streetlight.mp3",
+      "title": "Amber Streetlight",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/amber-streetlight/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/amber-streetlight/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--backlit-radio",
+      "file": "audio/blue-dot-sessions--backlit-radio.mp3",
+      "title": "Backlit Radio",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/backlit-radio/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/backlit-radio/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--light-pollution",
+      "file": "audio/blue-dot-sessions--light-pollution.mp3",
+      "title": "Light Pollution",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/light-pollution/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/light-pollution/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--lunar-crush",
+      "file": "audio/blue-dot-sessions--lunar-crush.mp3",
+      "title": "Lunar Crush",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/lunar-crush/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/lunar-crush/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--eyes-closed",
+      "file": "audio/blue-dot-sessions--eyes-closed.mp3",
+      "title": "Eyes Closed",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/eyes-closed/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/eyes-closed/"
+      ]
+    },
+    {
+      "id": "lofi:blue-dot-sessions--seed-pod-shadow",
+      "file": "audio/blue-dot-sessions--seed-pod-shadow.mp3",
+      "title": "Seed Pod Shadow",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/seed-pod-shadow/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/cafe-dust/seed-pod-shadow/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--going-underground",
+      "file": "audio/crowander--going-underground.mp3",
+      "title": "Going Underground",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/going-underground/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/going-underground/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--stop-on-a-bench",
+      "file": "audio/crowander--stop-on-a-bench.mp3",
+      "title": "Stop on a Bench",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/stop-on-a-bench/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/stop-on-a-bench/"
+      ]
+    },
+    {
+      "id": "lofi:shane-ivers--lazy-daze",
+      "file": "audio/shane-ivers--lazy-daze.mp3",
+      "title": "Lazy Daze",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/lazy-daze",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/lazy-daze.mp3"
+      ]
+    }
+  ]
+}
