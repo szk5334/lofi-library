@@ -263,19 +263,6 @@
       ]
     },
     {
-      "id": "lofi:ketsa--jazz-for-the-soul",
-      "file": "audio/ketsa--jazz-for-the-soul.mp3",
-      "title": "Jazz For The Soul",
-      "artist": "Ketsa",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/",
-      "sources": [
-        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/"
-      ]
-    },
-    {
       "id": "lofi:ketsa--drifting-space-jazz",
       "file": "audio/ketsa--drifting-space-jazz.mp3",
       "title": "Drifting Space Jazz",
@@ -585,32 +572,6 @@
       "page": "https://incompetech.com/music/royalty-free/music.html",
       "sources": [
         "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Groove%20Grove.mp3"
-      ]
-    },
-    {
-      "id": "lofi:shane-ivers--the-88",
-      "file": "audio/shane-ivers--the-88.mp3",
-      "title": "The 88",
-      "artist": "Shane Ivers",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "youtube_ok": true,
-      "page": "https://www.silvermansound.com/free-music/the-88",
-      "sources": [
-        "https://www.silvermansound.com/wp-content/uploads/the-88.mp3"
-      ]
-    },
-    {
-      "id": "lofi:shane-ivers--posteriosis",
-      "file": "audio/shane-ivers--posteriosis.mp3",
-      "title": "Posteriosis",
-      "artist": "Shane Ivers",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "youtube_ok": true,
-      "page": "https://www.silvermansound.com/free-music/posteriosis",
-      "sources": [
-        "https://www.silvermansound.com/wp-content/uploads/posteriosis.mp3"
       ]
     },
     {
