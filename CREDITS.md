@@ -24,7 +24,6 @@ free web radio, not for monetized or video uploads.
 - “Ocean Memory” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/ocean-memory/)
 - “Washed Up” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/)
 - “Cold (Salt) Water” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/cold-salt-water/)
-- “Jazz For The Soul” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/)
 - “Drifting Space Jazz” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/drifting-space-jazz/)
 - “Jazz for the Solstice” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-solstice/)
 - “Her Memory Fading” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/her-memory-fading/)

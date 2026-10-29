@@ -242,18 +242,6 @@
       "seconds": 153
     },
     {
-      "id": "lofi:ketsa--jazz-for-the-soul",
-      "url": "audio/ketsa--jazz-for-the-soul.mp3",
-      "title": "Jazz For The Soul",
-      "artist": "Ketsa",
-      "library": "lofi",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-soul/",
-      "seconds": 224
-    },
-    {
       "id": "lofi:ketsa--drifting-space-jazz",
       "url": "audio/ketsa--drifting-space-jazz.mp3",
       "title": "Drifting Space Jazz",
