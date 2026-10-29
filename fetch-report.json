@@ -1,342 +1,781 @@
 {
   "summary": {
     "library": "lofi",
-    "listed": 41,
-    "in_library": 41,
-    "downloaded": 41,
-    "failed": 0,
+    "listed": 100,
+    "in_library": 98,
+    "downloaded": 57,
+    "failed": 2,
     "purged": [],
-    "audio_mb": 105.1,
-    "minutes": 131
+    "audio_mb": 252.7,
+    "minutes": 315
   },
   "tracks": [
     {
       "id": "lofi:holiznacc0--2-hour-delay",
       "title": "2 Hour Delay",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZtIu0scNVo0F82GthYO42i4zvmoyuy9W8Y35NxVT.mp3",
+      "status": "kept",
       "seconds": 132
     },
     {
       "id": "lofi:holiznacc0--winter-blues",
       "title": "Winter Blues",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/b9aaLxa3HIdDsfDmLDUsR27znNe0aldiVWRJbDF9.mp3",
+      "status": "kept",
       "seconds": 223
     },
     {
       "id": "lofi:holiznacc0--first-snow",
       "title": "First Snow",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/aNMGi5zWqUxP0qP9De7WJSEV43p0mkZiFrJGuljD.mp3",
+      "status": "kept",
       "seconds": 174
     },
     {
       "id": "lofi:holiznacc0--snow-drift",
       "title": "Snow Drift",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/K0WPofXI9S27E24ORSKxrYhlyFe2g7zldVkmR6KF.mp3",
+      "status": "kept",
       "seconds": 174
     },
     {
       "id": "lofi:holiznacc0--fire-place",
       "title": "Fire Place",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qUQGTyL3bMTaIVqsuZ3dUS2u2ep2ZmVr86sWwZ0j.mp3",
+      "status": "kept",
       "seconds": 170
     },
     {
       "id": "lofi:holiznacc0--when-time-called-me-darling",
       "title": "When Time Called Me Darling",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3Jox99wj2ur7YR7O1ug3fdP8NdOOpmHfVPFBRhq5.mp3",
+      "status": "kept",
       "seconds": 215
     },
     {
       "id": "lofi:holiznacc0--one-night-in-france",
       "title": "One Night In France",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hgY8pG5KicULRbUJjUVavqs1h53lNSHdLptPoCwS.mp3",
+      "status": "kept",
       "seconds": 195
     },
     {
       "id": "lofi:holiznacc0--still-life",
       "title": "Still Life",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/X2xAunfMENT4KSm1XpnQC2qUUC4hcMVbDXBMw9GI.mp3",
+      "status": "kept",
       "seconds": 135
     },
     {
       "id": "lofi:holiznacc0--moon-unit",
       "title": "Moon Unit",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CbNZO1QUuJq1f50RHzZ5kykNj1hdqT04UaWOYSNf.mp3",
+      "status": "kept",
       "seconds": 172
     },
     {
       "id": "lofi:holiznacc0--lucid",
       "title": "Lucid",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/je7RethXWuduCoRV6Gq3w25yDXvxYnnOWt5OGlgv.mp3",
+      "status": "kept",
       "seconds": 145
     },
     {
       "id": "lofi:holiznacc0--warm-fuzz",
       "title": "Warm Fuzz",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Qrd0JkjTC7XXJwtS6LvCHIJ9K1FLXewdrYOQHhc5.mp3",
+      "status": "kept",
       "seconds": 173
     },
     {
       "id": "lofi:holiznacc0--ease-into-night",
       "title": "Ease into Night",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/XobMN43VCXdGmXCTuVc964P0O4gzMe0p2RoPTLKC.mp3",
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--never-sleeping",
       "title": "Never Sleeping",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/1aZjvabb5YPX4Rg6Vgnf4PDbHrYDMirHm8g21YpD.mp3",
+      "status": "kept",
       "seconds": 185
     },
     {
       "id": "lofi:holiznacc0--color-of-a-soul",
       "title": "Color Of A Soul",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/xRID4LBzd558K0DI9fjemJnZrxLueiba0GTOxUwL.mp3",
+      "status": "kept",
       "seconds": 157
     },
     {
       "id": "lofi:holiznacc0--dreamy-reverie",
       "title": "Dreamy Reverie",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Bo2XWazV4kHpnPksjJGRRLr16EmOE44NZnMITZaB.mp3",
+      "status": "kept",
       "seconds": 144
     },
     {
       "id": "lofi:holiznacc0--waiting-around",
       "title": "Waiting Around",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/aVNvUkfJVw1NI9zHSC3I8d760YbwCt31a3Wi6Ydl.mp3",
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--reminders",
       "title": "Reminders",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/r7Y9jjWggY2LIKonpPhkYrAQNJgm2daRHr5Kcc0I.mp3",
+      "status": "kept",
       "seconds": 145
     },
     {
       "id": "lofi:holiznacc0--ocean-memory",
       "title": "Ocean Memory",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/jkiKJYaKX3gCpdz1GF8UuNr17z0h0WAf8bIFY409.mp3",
+      "status": "kept",
       "seconds": 151
     },
     {
       "id": "lofi:holiznacc0--washed-up",
       "title": "Washed Up",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/nOI7iSZu1JomcCiZGL8R8hwVQEQjcDv49AUyCLnz.mp3",
+      "status": "kept",
       "seconds": 235
     },
     {
       "id": "lofi:holiznacc0--cold-salt-water",
       "title": "Cold (Salt) Water",
       "artist": "HoliznaCC0",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IFLlWlpbcoM1IKpR2h0mM5dPUrnPCXly2OiWztyA.mp3",
+      "status": "kept",
       "seconds": 153
     },
     {
       "id": "lofi:ketsa--jazz-for-the-soul",
       "title": "Jazz For The Soul",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/MWitdL9TTSkSkqlNeCXfAvJGgBX31uMvc0ACqvAU.mp3",
+      "status": "kept",
       "seconds": 224
     },
     {
       "id": "lofi:ketsa--drifting-space-jazz",
       "title": "Drifting Space Jazz",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/YCAvNbAH9LfYV31nz3WhPOviv0SkFxJ9cKUjR9p7.mp3",
+      "status": "kept",
       "seconds": 206
     },
     {
       "id": "lofi:ketsa--jazz-for-the-solstice",
       "title": "Jazz for the Solstice",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/TP50eNW2HHlBLWsvDcxnwrHyVQOTWmPjt2muRQmX.mp3",
+      "status": "kept",
       "seconds": 214
     },
     {
       "id": "lofi:ketsa--her-memory-fading",
       "title": "Her Memory Fading",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7f33xw5VH4tJxHkuE3ee1bXUXppWltSFOkiFYojB.mp3",
+      "status": "kept",
       "seconds": 213
     },
     {
       "id": "lofi:ketsa--dawn-faded",
       "title": "Dawn Faded",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/vNO9F5zgNu4OEmqWrRjEvHp4MCZyXxANrTANhMeb.mp3",
+      "status": "kept",
       "seconds": 194
     },
     {
       "id": "lofi:ketsa--longer-wait",
       "title": "Longer Wait",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/RzMlfED9PxsVMTa9csKtQptlJFDIYKxXtRa21BLG.mp3",
+      "status": "kept",
       "seconds": 179
     },
     {
       "id": "lofi:ketsa--still-dreams",
       "title": "Still Dreams",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/bc25XqmTgdFk7tZcjh3zDOFBYtHwvzXsHvCOJiLt.mp3",
+      "status": "kept",
       "seconds": 189
     },
     {
       "id": "lofi:ketsa--where-dreams-drift",
       "title": "Where Dreams Drift",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hV3133slq4ks5GtkP9h3oHtI7VzvJaLHH5iMPMRl.mp3",
+      "status": "kept",
       "seconds": 212
     },
     {
       "id": "lofi:ketsa--soul-syrup",
       "title": "Soul Syrup",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Zs6XS76QBAMQFfaMEWBCNNEegFV3VrIlXLciu8gm.mp3",
+      "status": "kept",
       "seconds": 178
     },
     {
       "id": "lofi:ketsa--ease-back",
       "title": "Ease Back",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/cPFW6gF7nnj5Rz6HbnsAtTDG337RNEY0PT8ufZJ7.mp3",
+      "status": "kept",
       "seconds": 190
     },
     {
       "id": "lofi:ketsa--tide-turns",
       "title": "Tide Turns",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7YLIpqnoE0NRWWVnFhRegGUcRNR3g1dFQqvBqX49.mp3",
+      "status": "kept",
       "seconds": 194
     },
     {
       "id": "lofi:ketsa--machine-ghosts",
       "title": "Machine Ghosts",
       "artist": "Ketsa",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Lr4iJrnYpzDoyQzxMKBdBDEFvleSOpvzX0gHaE6f.mp3",
+      "status": "kept",
       "seconds": 214
     },
     {
       "id": "lofi:blue-dot-sessions--amber-streetlight",
       "title": "Amber Streetlight",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rxaOZFsztXIIt5Pxz9xhLuNAxtOfCX2AgTlKgWH7.mp3",
+      "status": "kept",
       "seconds": 249
     },
     {
       "id": "lofi:blue-dot-sessions--backlit-radio",
       "title": "Backlit Radio",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/BTI3xFyKoN3FwqTZDpyQdFBksFzMiZROXs6Ryhk7.mp3",
+      "status": "kept",
       "seconds": 202
     },
     {
       "id": "lofi:blue-dot-sessions--light-pollution",
       "title": "Light Pollution",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/yVAdYj9uWD9iaOz1AVk3Z0IMgBVzhBRH5qIxRgQc.mp3",
+      "status": "kept",
       "seconds": 205
     },
     {
       "id": "lofi:blue-dot-sessions--lunar-crush",
       "title": "Lunar Crush",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/teUyhmHI0VW320yjsVu6D1x7r0gBa3fiuVztkTGz.mp3",
+      "status": "kept",
       "seconds": 236
     },
     {
       "id": "lofi:blue-dot-sessions--eyes-closed",
       "title": "Eyes Closed",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZWhR7JApdmZM5KrISKb84OL7YkVlyYNBSr8HL6Du.mp3",
+      "status": "kept",
       "seconds": 245
     },
     {
       "id": "lofi:blue-dot-sessions--seed-pod-shadow",
       "title": "Seed Pod Shadow",
       "artist": "Blue Dot Sessions",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ShdC89iq0vyOrKWqLyNj0sVMJwJgKojki2Sc975P.mp3",
+      "status": "kept",
       "seconds": 248
     },
     {
       "id": "lofi:crowander--going-underground",
       "title": "Going Underground",
       "artist": "Crowander",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/XnfsieouQQ6SByHCLMtH6icjTjQwQ71BQHE0TsPX.mp3",
+      "status": "kept",
       "seconds": 257
     },
     {
       "id": "lofi:crowander--stop-on-a-bench",
       "title": "Stop on a Bench",
       "artist": "Crowander",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/M2NsuRAiF6SjyQ1pwPvMBhyaynzWznTGTGoLalk5.mp3",
+      "status": "kept",
       "seconds": 211
     },
     {
       "id": "lofi:shane-ivers--lazy-daze",
       "title": "Lazy Daze",
       "artist": "Shane Ivers",
-      "status": "downloaded",
-      "from_url": "https://www.silvermansound.com/wp-content/uploads/lazy-daze.mp3",
+      "status": "kept",
       "seconds": 229
+    },
+    {
+      "id": "lofi:kevin-macleod--study-and-relax",
+      "title": "Study And Relax",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20And%20Relax.mp3",
+      "seconds": 223
+    },
+    {
+      "id": "lofi:kevin-macleod--past-sadness",
+      "title": "Past Sadness",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Past%20Sadness.mp3",
+      "seconds": 213
+    },
+    {
+      "id": "lofi:kevin-macleod--vibing-over-venus",
+      "title": "Vibing Over Venus",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Vibing%20Over%20Venus.mp3",
+      "seconds": 411
+    },
+    {
+      "id": "lofi:kevin-macleod--groove-grove",
+      "title": "Groove Grove",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Groove%20Grove.mp3",
+      "seconds": 206
+    },
+    {
+      "id": "lofi:shane-ivers--the-88",
+      "title": "The 88",
+      "artist": "Shane Ivers",
+      "status": "failed",
+      "tried": [
+        {
+          "source": "https://www.silvermansound.com/wp-content/uploads/the-88.mp3",
+          "error": "not audio or too short (11904 bytes)"
+        }
+      ]
+    },
+    {
+      "id": "lofi:shane-ivers--posteriosis",
+      "title": "Posteriosis",
+      "artist": "Shane Ivers",
+      "status": "failed",
+      "tried": [
+        {
+          "source": "https://www.silvermansound.com/wp-content/uploads/posteriosis.mp3",
+          "error": "not audio or too short (11885 bytes)"
+        }
+      ]
+    },
+    {
+      "id": "lofi:ketsa--night-soul",
+      "title": "Night Soul",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/V93ljjczapc5Sq4QbS3jpFn0WwaGIn8ZKU8Njj1a.mp3",
+      "seconds": 198
+    },
+    {
+      "id": "lofi:holiznacc0--so-broke",
+      "title": "So Broke",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7UujaMOPwxvjnEe1RwqDEnT9OJ0uXGwqOosvUiSD.mp3",
+      "seconds": 222
+    },
+    {
+      "id": "lofi:crowander--smoke",
+      "title": "Smoke",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/E8wa1se0VRaIwguy8gLExMiFftfNFTKbPAxdkkPc.mp3",
+      "seconds": 199
+    },
+    {
+      "id": "lofi:ketsa--gaslights",
+      "title": "Gaslights",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/eArDrOfFxzZj4Pm5kyljRrK6leaSbXkfwuRClqmJ.mp3",
+      "seconds": 181
+    },
+    {
+      "id": "lofi:ketsa--brazilian-sunsets",
+      "title": "Brazilian Sunsets",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/cDU3g3k4cpDuz9GDZ8o0dCZsubMTh5TgIAGZClEo.mp3",
+      "seconds": 212
+    },
+    {
+      "id": "lofi:purrple-cat--walking-to-the-park-at-3-a-m",
+      "title": "Walking To The Park At 3 A.M.",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/9Xwd4m60HHdqX6nbqYLVHKDrOOTp6rjVNHq26uqN.mp3",
+      "seconds": 202
+    },
+    {
+      "id": "lofi:holiznacc0--come-again",
+      "title": "Come Again",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/kaOJPdpxmsRiPqkfKV2qY5bwUUad4g1bzQhhAjy3.mp3",
+      "seconds": 183
+    },
+    {
+      "id": "lofi:ketsa--night-flow-day-grow",
+      "title": "Night Flow Day Grow",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/pTiSef01xUYvXOC3NIGAhtnrUbfCVlaxovnb95aK.mp3",
+      "seconds": 204
+    },
+    {
+      "id": "lofi:crowander--loved",
+      "title": "Loved",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/VarjLyeVKu5v0TpD9WK9dCFWfIxi2Kces3tbSfvQ.mp3",
+      "seconds": 218
+    },
+    {
+      "id": "lofi:purrple-cat--cold-rainy",
+      "title": "Cold & Rainy",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/lsqsDj5cQwgnNJyWw4rNy8WjvQaQcPISyxuZWGg8.mp3",
+      "seconds": 163
+    },
+    {
+      "id": "lofi:ketsa--glorious-winter",
+      "title": "Glorious Winter",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/z3dHd8fsLl8KZbXdaQvgJuboui0q0o6U0TmzkSXh.mp3",
+      "seconds": 175
+    },
+    {
+      "id": "lofi:marcos-h-bolanos--rain-coffee",
+      "title": "Rain & Coffee",
+      "artist": "Marcos H. Bolanos",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/BIPohHMM8WG6pMtGoMetOLrUC4gvULcuLYml3lQK.mp3",
+      "seconds": 150
+    },
+    {
+      "id": "lofi:ketsa--in-the-air",
+      "title": "In The Air",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hn8QAHwipz746Mir8wD45Orqi4xuBCu4tXpWKfnj.mp3",
+      "seconds": 190
+    },
+    {
+      "id": "lofi:holiznacc0--keeping-cool",
+      "title": "Keeping Cool",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2hdKPYJKvrfPtuBAVUWU46IJkyFmWMb0QTPvqo2w.mp3",
+      "seconds": 153
+    },
+    {
+      "id": "lofi:ketsa--the-years-before",
+      "title": "The Years Before",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/zv1uUJ1X46uelngSVXeFQRKpX0tHUbEfe3lpGxlV.mp3",
+      "seconds": 182
+    },
+    {
+      "id": "lofi:purrple-cat--indigo-dreams",
+      "title": "Indigo Dreams",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/az6xO6BZaLPgtGgzVt0zBvnKyASmNkLnNacYmmzb.mp3",
+      "seconds": 180
+    },
+    {
+      "id": "lofi:crowander--medita",
+      "title": "Medita",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/l7MILHAUnEbrvPR4whRWt2y10RwwGY6v1IENykN6.mp3",
+      "seconds": 214
+    },
+    {
+      "id": "lofi:ketsa--let-down",
+      "title": "Let Down",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IHDeyRUCZt25BwWVYLuI2yut7wqkjn58N1oZNRkA.mp3",
+      "seconds": 177
+    },
+    {
+      "id": "lofi:ketsa--you-da-bossa",
+      "title": "You da Bossa",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ofYANKkKmUJ9YegJlBDiN8fQj288V7xf5HgdUxuZ.mp3",
+      "seconds": 198
+    },
+    {
+      "id": "lofi:purrple-cat--flickering-light-in-the-dark",
+      "title": "Flickering Light In The Dark",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/K6oCGgUdiHXKn6z8qaU4p7qz7CrWUuJgC10winJy.mp3",
+      "seconds": 142
+    },
+    {
+      "id": "lofi:ketsa--off-days",
+      "title": "Off Days",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3T2DAgSlHUcsbavs7eN0KNgdOlvM6psn3GSyI5Ao.mp3",
+      "seconds": 194
+    },
+    {
+      "id": "lofi:crowander--80-s",
+      "title": "80's",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ATeyjo2952EHwEzzmCHqFoEjEqnJVh05qLjYbxOd.mp3",
+      "seconds": 289
+    },
+    {
+      "id": "lofi:ketsa--importance",
+      "title": "Importance",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2asRXm6Mt6ilsVKE3UFS4Cn1mWYgTBYcnPSTNMsd.mp3",
+      "seconds": 195
+    },
+    {
+      "id": "lofi:purrple-cat--entering-the-dream-world",
+      "title": "Entering The Dream World",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/yQvNJ3tdmYPBPYSWpHyFPThNgnQ79axbfDfiEdO8.mp3",
+      "seconds": 156
+    },
+    {
+      "id": "lofi:ketsa--no-one-asked",
+      "title": "No One Asked",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/5sZ3sYkpg8sEACVldPumO5vWwtPn9uYfSHiDJRRq.mp3",
+      "seconds": 194
+    },
+    {
+      "id": "lofi:marcos-h-bolanos--heart-soul",
+      "title": "Heart & Soul",
+      "artist": "Marcos H. Bolanos",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/grcVMZpajIGlfO2N7q7NppOdgPVv4RuUWhYeUmne.mp3",
+      "seconds": 140
+    },
+    {
+      "id": "lofi:ketsa--pacing",
+      "title": "Pacing",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/V0TJMt2OSlcMfT6Gn7DaDFBLX5aa9LkNfvCY9A8I.mp3",
+      "seconds": 194
+    },
+    {
+      "id": "lofi:purrple-cat--it-was-just-a-dream",
+      "title": "It Was Just A Dream",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/NNqNAqkrPf15xbECpuQXUjjF5gn8yKGexQZN9WdH.mp3",
+      "seconds": 148
+    },
+    {
+      "id": "lofi:ketsa--earth",
+      "title": "Earth",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/tOc0Egjq7Sc6xww1muDIcjOtXpkVXIEeoxegqmC1.mp3",
+      "seconds": 182
+    },
+    {
+      "id": "lofi:crowander--back",
+      "title": "Back",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gWa6GMH3xGHUsMv7fJdrqF1WZD4ieRusIT8z2bVP.mp3",
+      "seconds": 355
+    },
+    {
+      "id": "lofi:ketsa--protect",
+      "title": "Protect",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ghxdn92DMhDq8jHmMoXVn4b4kr3b65SLCCu056ir.mp3",
+      "seconds": 180
+    },
+    {
+      "id": "lofi:purrple-cat--the-last-day-i-saw-you",
+      "title": "The Last Day I Saw You",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hb3tQWfJgQGyNN4XyixkUr9ZeTpIWZsiICPIotJz.mp3",
+      "seconds": 177
+    },
+    {
+      "id": "lofi:ketsa--in-on-it",
+      "title": "In On It",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/SroxVKfuCBbS3TEEScIw0NLrjf9atAxFJTzAnEIp.mp3",
+      "seconds": 207
+    },
+    {
+      "id": "lofi:holiznacc0--poor-but-happy",
+      "title": "Poor, But Happy",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/nKxps329GJZbymP5XSqrcvC9kPitq9DbUKmnnhkU.mp3",
+      "seconds": 128
+    },
+    {
+      "id": "lofi:ketsa--sunday",
+      "title": "Sunday",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/VHNdxx5IxL4UFahVVy5F6XVQ3hW11t9GQ4i9RtMd.mp3",
+      "seconds": 200
+    },
+    {
+      "id": "lofi:purrple-cat--questioning-the-universe",
+      "title": "Questioning The Universe",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/GWLkQ1KXIiYOWk3pmpeJjWFHHIiHjYig8ukaDGqs.mp3",
+      "seconds": 178
+    },
+    {
+      "id": "lofi:ketsa--priorities",
+      "title": "Priorities",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/tSWG0D37oFlHuCfqGVylQJBEMjbp7BjvVpXxdEf5.mp3",
+      "seconds": 208
+    },
+    {
+      "id": "lofi:purrple-cat--goodbye-i-hope-we-meet-again",
+      "title": "Goodbye, I Hope We Meet Again",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/dJzuCJinevvAETCBgKa78tDVg6hw2nv4CKC6yNpw.mp3",
+      "seconds": 201
+    },
+    {
+      "id": "lofi:ketsa--always-faithful",
+      "title": "Always Faithful",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/eVBAhEIYEYxRq4JzkIs7087QQD1et64YBbJBRO1f.mp3",
+      "seconds": 193
+    },
+    {
+      "id": "lofi:purrple-cat--this-feeling",
+      "title": "This Feeling",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/zCDuiTGWi3hO6ZaT37P4fi0aCAIWY96OLoyu00Gi.mp3",
+      "seconds": 166
+    },
+    {
+      "id": "lofi:ketsa--my-town",
+      "title": "My Town",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JOnZ5AWaNMDmCJLTRZlz03dFWybxbLZVNzVbthB6.mp3",
+      "seconds": 196
+    },
+    {
+      "id": "lofi:purrple-cat--i-m-lost-but-that-s-ok",
+      "title": "I'm Lost But That's Ok",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/tknCj8R5JTxLkXa9WK6zbhMkzS03aohbwdb87k35.mp3",
+      "seconds": 159
+    },
+    {
+      "id": "lofi:ketsa--never-happen",
+      "title": "Never Happen",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Mmt6TJajVYJnBpzu8BzJ41Qap2XaDdPGXR1hjeNs.mp3",
+      "seconds": 182
+    },
+    {
+      "id": "lofi:purrple-cat--cloud-watching",
+      "title": "Cloud Watching",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/AfBm9wKPp3iURcqECDsTtCSO7JPwarMkr4dRX5mu.mp3",
+      "seconds": 169
+    },
+    {
+      "id": "lofi:ketsa--put-me-down",
+      "title": "Put Me Down",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QkKPe1XaaCSqLyhbmgGQrX1EgCZrByevaL0x2Fjx.mp3",
+      "seconds": 197
+    },
+    {
+      "id": "lofi:purrple-cat--remembering-all-the-good-times",
+      "title": "Remembering All The Good Times",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/oXG2cxwPVocgkY9Ndfeuhsa8HYxAWbXl91haHvOa.mp3",
+      "seconds": 195
+    },
+    {
+      "id": "lofi:ketsa--soul-epic",
+      "title": "Soul Epic",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/yxKZ1GHRGm5dJTAR3EXk7qF1ZrbgUVUM057LDuyn.mp3",
+      "seconds": 197
+    },
+    {
+      "id": "lofi:purrple-cat--i-thought-we-d-be-friends-forever",
+      "title": "I Thought We'd Be Friends Forever",
+      "artist": "Purrple Cat",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/h7EV7YmemIbZSS3oeX1rt2CD8RJHeLrknWL6q7M2.mp3",
+      "seconds": 139
+    },
+    {
+      "id": "lofi:ketsa--hope",
+      "title": "Hope",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/24KG8Qz7H7l5NBAeKDroCqlXhLbeifofdNswIRV4.mp3",
+      "seconds": 185
+    },
+    {
+      "id": "lofi:ketsa--seize-the-day",
+      "title": "Seize the Day",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/lqjcQcTOJjSMozI3mASOc2cQa1EJ3i8isOllpAU4.mp3",
+      "seconds": 190
+    },
+    {
+      "id": "lofi:ketsa--flips",
+      "title": "Flips",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gZNsCItU0otZ3WZS9ZA1emE354ZEK4kfEI58SvPw.mp3",
+      "seconds": 186
+    },
+    {
+      "id": "lofi:ketsa--make-it-good",
+      "title": "Make It Good",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/dett02MFEogQtxmDPUjldBNOU9mact6sQiSnNvIn.mp3",
+      "seconds": 186
+    },
+    {
+      "id": "lofi:ketsa--can-t-miss",
+      "title": "Can't Miss",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/y2brlWdAnLKohzndOofm1ri98Fpl7AHlK7GTrp2W.mp3",
+      "seconds": 187
     }
   ]
 }
