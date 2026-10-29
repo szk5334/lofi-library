@@ -534,6 +534,773 @@
       "sources": [
         "https://www.silvermansound.com/wp-content/uploads/lazy-daze.mp3"
       ]
+    },
+    {
+      "id": "lofi:kevin-macleod--study-and-relax",
+      "file": "audio/kevin-macleod--study-and-relax.mp3",
+      "title": "Study And Relax",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20And%20Relax.mp3"
+      ]
+    },
+    {
+      "id": "lofi:kevin-macleod--past-sadness",
+      "file": "audio/kevin-macleod--past-sadness.mp3",
+      "title": "Past Sadness",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Past%20Sadness.mp3"
+      ]
+    },
+    {
+      "id": "lofi:kevin-macleod--vibing-over-venus",
+      "file": "audio/kevin-macleod--vibing-over-venus.mp3",
+      "title": "Vibing Over Venus",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Vibing%20Over%20Venus.mp3"
+      ]
+    },
+    {
+      "id": "lofi:kevin-macleod--groove-grove",
+      "file": "audio/kevin-macleod--groove-grove.mp3",
+      "title": "Groove Grove",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Groove%20Grove.mp3"
+      ]
+    },
+    {
+      "id": "lofi:shane-ivers--the-88",
+      "file": "audio/shane-ivers--the-88.mp3",
+      "title": "The 88",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/the-88",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/the-88.mp3"
+      ]
+    },
+    {
+      "id": "lofi:shane-ivers--posteriosis",
+      "file": "audio/shane-ivers--posteriosis.mp3",
+      "title": "Posteriosis",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/posteriosis",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/posteriosis.mp3"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--night-soul",
+      "file": "audio/ketsa--night-soul.mp3",
+      "title": "Night Soul",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/night-soul/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/night-soul/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--so-broke",
+      "file": "audio/holiznacc0--so-broke.mp3",
+      "title": "So Broke",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/so-broke/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/so-broke/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--smoke",
+      "file": "audio/crowander--smoke.mp3",
+      "title": "Smoke",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/smoke/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/smoke/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--gaslights",
+      "file": "audio/ketsa--gaslights.mp3",
+      "title": "Gaslights",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/gaslights/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/gaslights/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--brazilian-sunsets",
+      "file": "audio/ketsa--brazilian-sunsets.mp3",
+      "title": "Brazilian Sunsets",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/brazilian-sunsets/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/brazilian-sunsets/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--walking-to-the-park-at-3-a-m",
+      "file": "audio/purrple-cat--walking-to-the-park-at-3-a-m.mp3",
+      "title": "Walking To The Park At 3 A.M.",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/walking-to-the-park-at-3-am/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/walking-to-the-park-at-3-am/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--come-again",
+      "file": "audio/holiznacc0--come-again.mp3",
+      "title": "Come Again",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/come-again/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/come-again/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--night-flow-day-grow",
+      "file": "audio/ketsa--night-flow-day-grow.mp3",
+      "title": "Night Flow Day Grow",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-flow-day-grow/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-flow-day-grow/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--loved",
+      "file": "audio/crowander--loved.mp3",
+      "title": "Loved",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/loved/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/loved/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--cold-rainy",
+      "file": "audio/purrple-cat--cold-rainy.mp3",
+      "title": "Cold & Rainy",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/up-all-night/cold-rainy/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/up-all-night/cold-rainy/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--glorious-winter",
+      "file": "audio/ketsa--glorious-winter.mp3",
+      "title": "Glorious Winter",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/glorious-winter/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/glorious-winter/"
+      ]
+    },
+    {
+      "id": "lofi:marcos-h-bolanos--rain-coffee",
+      "file": "audio/marcos-h-bolanos--rain-coffee.mp3",
+      "title": "Rain & Coffee",
+      "artist": "Marcos H. Bolanos",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Marcos_H_Bolanos/unchained-melodies-vol-3/rain-coffee/",
+      "sources": [
+        "https://freemusicarchive.org/music/Marcos_H_Bolanos/unchained-melodies-vol-3/rain-coffee/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--in-the-air",
+      "file": "audio/ketsa--in-the-air.mp3",
+      "title": "In The Air",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/in-the-air-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/in-the-air-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--keeping-cool",
+      "file": "audio/holiznacc0--keeping-cool.mp3",
+      "title": "Keeping Cool",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/keeping-cool/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/keeping-cool/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--the-years-before",
+      "file": "audio/ketsa--the-years-before.mp3",
+      "title": "The Years Before",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/the-years-before/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/the-years-before/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--indigo-dreams",
+      "file": "audio/purrple-cat--indigo-dreams.mp3",
+      "title": "Indigo Dreams",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/indigo-dreams/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/indigo-dreams/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--medita",
+      "file": "audio/crowander--medita.mp3",
+      "title": "Medita",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/medita/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/medita/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--let-down",
+      "file": "audio/ketsa--let-down.mp3",
+      "title": "Let Down",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/let-down/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/let-down/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--you-da-bossa",
+      "file": "audio/ketsa--you-da-bossa.mp3",
+      "title": "You da Bossa",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/you-da-bossa/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/you-da-bossa/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--flickering-light-in-the-dark",
+      "file": "audio/purrple-cat--flickering-light-in-the-dark.mp3",
+      "title": "Flickering Light In The Dark",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/brain-fog/flickering-light-in-the-dark/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/brain-fog/flickering-light-in-the-dark/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--off-days",
+      "file": "audio/ketsa--off-days.mp3",
+      "title": "Off Days",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/off-days/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/off-days/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--80-s",
+      "file": "audio/crowander--80-s.mp3",
+      "title": "80's",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/80s-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/80s-1/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--importance",
+      "file": "audio/ketsa--importance.mp3",
+      "title": "Importance",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/importance-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/importance-1/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--entering-the-dream-world",
+      "file": "audio/purrple-cat--entering-the-dream-world.mp3",
+      "title": "Entering The Dream World",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/brain-fog/entering-the-dream-world/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/brain-fog/entering-the-dream-world/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--no-one-asked",
+      "file": "audio/ketsa--no-one-asked.mp3",
+      "title": "No One Asked",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/no-one-asked/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/no-one-asked/"
+      ]
+    },
+    {
+      "id": "lofi:marcos-h-bolanos--heart-soul",
+      "file": "audio/marcos-h-bolanos--heart-soul.mp3",
+      "title": "Heart & Soul",
+      "artist": "Marcos H. Bolanos",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Marcos_H_Bolanos/unchained-melodies-vol-3/heart-soul/",
+      "sources": [
+        "https://freemusicarchive.org/music/Marcos_H_Bolanos/unchained-melodies-vol-3/heart-soul/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--pacing",
+      "file": "audio/ketsa--pacing.mp3",
+      "title": "Pacing",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/pacing/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/pacing/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--it-was-just-a-dream",
+      "file": "audio/purrple-cat--it-was-just-a-dream.mp3",
+      "title": "It Was Just A Dream",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/up-all-night/it-was-just-a-dream/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/up-all-night/it-was-just-a-dream/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--earth",
+      "file": "audio/ketsa--earth.mp3",
+      "title": "Earth",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/earth-2/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/earth-2/"
+      ]
+    },
+    {
+      "id": "lofi:crowander--back",
+      "file": "audio/crowander--back.mp3",
+      "title": "Back",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/back/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/while-you-sleep-dreamy-jazz/back/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--protect",
+      "file": "audio/ketsa--protect.mp3",
+      "title": "Protect",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/protect/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/protect/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--the-last-day-i-saw-you",
+      "file": "audio/purrple-cat--the-last-day-i-saw-you.mp3",
+      "title": "The Last Day I Saw You",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/now-or-never/the-last-day-i-saw-you/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/now-or-never/the-last-day-i-saw-you/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--in-on-it",
+      "file": "audio/ketsa--in-on-it.mp3",
+      "title": "In On It",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/in-on-it/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/in-on-it/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--poor-but-happy",
+      "file": "audio/holiznacc0--poor-but-happy.mp3",
+      "title": "Poor, But Happy",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/poor-but-happy/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/poor-but-happy/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--sunday",
+      "file": "audio/ketsa--sunday.mp3",
+      "title": "Sunday",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/sunday-4/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/sunday-4/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--questioning-the-universe",
+      "file": "audio/purrple-cat--questioning-the-universe.mp3",
+      "title": "Questioning The Universe",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/brain-fog/questioning-the-universe/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/brain-fog/questioning-the-universe/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--priorities",
+      "file": "audio/ketsa--priorities.mp3",
+      "title": "Priorities",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/priorities/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/priorities/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--goodbye-i-hope-we-meet-again",
+      "file": "audio/purrple-cat--goodbye-i-hope-we-meet-again.mp3",
+      "title": "Goodbye, I Hope We Meet Again",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/nostalgia-and-moving-on/goodbye-i-hope-we-meet-again/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/nostalgia-and-moving-on/goodbye-i-hope-we-meet-again/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--always-faithful",
+      "file": "audio/ketsa--always-faithful.mp3",
+      "title": "Always Faithful",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/always-faithful/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/always-faithful/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--this-feeling",
+      "file": "audio/purrple-cat--this-feeling.mp3",
+      "title": "This Feeling",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/this-feeling-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/this-feeling-1/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--my-town",
+      "file": "audio/ketsa--my-town.mp3",
+      "title": "My Town",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/my-town/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/my-town/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--i-m-lost-but-that-s-ok",
+      "file": "audio/purrple-cat--i-m-lost-but-that-s-ok.mp3",
+      "title": "I'm Lost But That's Ok",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/im-lost-but-thats-ok/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/im-lost-but-thats-ok/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--never-happen",
+      "file": "audio/ketsa--never-happen.mp3",
+      "title": "Never Happen",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/never-happen/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/never-happen/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--cloud-watching",
+      "file": "audio/purrple-cat--cloud-watching.mp3",
+      "title": "Cloud Watching",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/cloud-watching/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/indigo-dreams/cloud-watching/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--put-me-down",
+      "file": "audio/ketsa--put-me-down.mp3",
+      "title": "Put Me Down",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/put-me-down/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/put-me-down/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--remembering-all-the-good-times",
+      "file": "audio/purrple-cat--remembering-all-the-good-times.mp3",
+      "title": "Remembering All The Good Times",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/nostalgia-and-moving-on/remembering-all-the-good-times/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/nostalgia-and-moving-on/remembering-all-the-good-times/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--soul-epic",
+      "file": "audio/ketsa--soul-epic.mp3",
+      "title": "Soul Epic",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/soul-epic/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/soul-epic/"
+      ]
+    },
+    {
+      "id": "lofi:purrple-cat--i-thought-we-d-be-friends-forever",
+      "file": "audio/purrple-cat--i-thought-we-d-be-friends-forever.mp3",
+      "title": "I Thought We'd Be Friends Forever",
+      "artist": "Purrple Cat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/purrple-cat/up-all-night/i-thought-wed-be-friends-forever/",
+      "sources": [
+        "https://freemusicarchive.org/music/purrple-cat/up-all-night/i-thought-wed-be-friends-forever/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--hope",
+      "file": "audio/ketsa--hope.mp3",
+      "title": "Hope",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/hope-12/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/hope-12/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--seize-the-day",
+      "file": "audio/ketsa--seize-the-day.mp3",
+      "title": "Seize the Day",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/seize-the-day/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/seize-the-day/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--flips",
+      "file": "audio/ketsa--flips.mp3",
+      "title": "Flips",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/flips/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/flips/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--make-it-good",
+      "file": "audio/ketsa--make-it-good.mp3",
+      "title": "Make It Good",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/make-it-good/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/make-it-good/"
+      ]
+    },
+    {
+      "id": "lofi:ketsa--can-t-miss",
+      "file": "audio/ketsa--can-t-miss.mp3",
+      "title": "Can't Miss",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/can-t-miss/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/jazz-hop-1/can-t-miss/"
+      ]
     }
   ]
 }
