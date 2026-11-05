@@ -1,0 +1,2164 @@
+{
+  "library": "lofi",
+  "bitrate": "112k",
+  "tracks": [
+    {
+      "id": "lofi:holiznacc0--2-hour-delay",
+      "file": "audio/holiznacc0--2-hour-delay.mp3",
+      "title": "2 Hour Delay",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/2-hour-delay-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/2-hour-delay-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--winter-blues",
+      "file": "audio/holiznacc0--winter-blues.mp3",
+      "title": "Winter Blues",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/winter-blues/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/winter-blues/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--first-snow",
+      "file": "audio/holiznacc0--first-snow.mp3",
+      "title": "First Snow",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/first-snowmp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/first-snowmp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--snow-drift",
+      "file": "audio/holiznacc0--snow-drift.mp3",
+      "title": "Snow Drift",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/snow-drift/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/snow-drift/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--fire-place",
+      "file": "audio/holiznacc0--fire-place.mp3",
+      "title": "Fire Place",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/winter-lofi/fire-place/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/winter-lofi/fire-place/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--when-time-called-me-darling",
+      "file": "audio/holiznacc0--when-time-called-me-darling.mp3",
+      "title": "When Time Called Me Darling",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-time-called-me-darling-lofi-relaxing-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-time-called-me-darling-lofi-relaxing-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--one-night-in-france",
+      "file": "audio/holiznacc0--one-night-in-france.mp3",
+      "title": "One Night In France",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-night-in-france-lofi-nostalgic-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-night-in-france-lofi-nostalgic-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--still-life",
+      "file": "audio/holiznacc0--still-life.mp3",
+      "title": "Still Life",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/still-life-lofi-chill-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/still-life-lofi-chill-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--moon-unit",
+      "file": "audio/holiznacc0--moon-unit.mp3",
+      "title": "Moon Unit",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/moon-unit-lofi-reflection-dreamy/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/moon-unit-lofi-reflection-dreamy/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--lucid",
+      "file": "audio/holiznacc0--lucid.mp3",
+      "title": "Lucid",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/lucid-lofi-dreamy-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/lucid-lofi-dreamy-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--warm-fuzz",
+      "file": "audio/holiznacc0--warm-fuzz.mp3",
+      "title": "Warm Fuzz",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/warm-fuzz-lofi-retro/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/warm-fuzz-lofi-retro/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ease-into-night",
+      "file": "audio/holiznacc0--ease-into-night.mp3",
+      "title": "Ease into Night",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ease-into-night-lofi-relax-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ease-into-night-lofi-relax-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--never-sleeping",
+      "file": "audio/holiznacc0--never-sleeping.mp3",
+      "title": "Never Sleeping",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/never-sleeping-lofi-dark-sad/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/never-sleeping-lofi-dark-sad/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--color-of-a-soul",
+      "file": "audio/holiznacc0--color-of-a-soul.mp3",
+      "title": "Color Of A Soul",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/color-of-a-soul-lofi-calm-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/color-of-a-soul-lofi-calm-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--dreamy-reverie",
+      "file": "audio/holiznacc0--dreamy-reverie.mp3",
+      "title": "Dreamy Reverie",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamy-reverie-lofi-nostalgic-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamy-reverie-lofi-nostalgic-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--waiting-around",
+      "file": "audio/holiznacc0--waiting-around.mp3",
+      "title": "Waiting Around",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/waiting-around-lofi-calm/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/waiting-around-lofi-calm/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--reminders",
+      "file": "audio/holiznacc0--reminders.mp3",
+      "title": "Reminders",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/reminders-lofi-calm-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/reminders-lofi-calm-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ocean-memory",
+      "file": "audio/holiznacc0--ocean-memory.mp3",
+      "title": "Ocean Memory",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/ocean-memory/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/ocean-memory/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--washed-up",
+      "file": "audio/holiznacc0--washed-up.mp3",
+      "title": "Washed Up",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--cold-salt-water",
+      "file": "audio/holiznacc0--cold-salt-water.mp3",
+      "title": "Cold (Salt) Water",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/cold-salt-water/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/cold-salt-water/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--so-broke",
+      "file": "audio/holiznacc0--so-broke.mp3",
+      "title": "So Broke",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/so-broke/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/so-broke/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--come-again",
+      "file": "audio/holiznacc0--come-again.mp3",
+      "title": "Come Again",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/come-again/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/come-again/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--keeping-cool",
+      "file": "audio/holiznacc0--keeping-cool.mp3",
+      "title": "Keeping Cool",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/keeping-cool/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/keeping-cool/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--poor-but-happy",
+      "file": "audio/holiznacc0--poor-but-happy.mp3",
+      "title": "Poor, But Happy",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/poor-but-happy/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-lofi-edit/poor-but-happy/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--eat",
+      "file": "audio/holiznacc0--eat.mp3",
+      "title": "Eat",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/eatmp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/eatmp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--sleep",
+      "file": "audio/holiznacc0--sleep.mp3",
+      "title": "Sleep",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/sleep-2/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/sleep-2/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--breath",
+      "file": "audio/holiznacc0--breath.mp3",
+      "title": "Breath",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/breath-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/breath-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--make-money",
+      "file": "audio/holiznacc0--make-money.mp3",
+      "title": "Make Money",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/make-money/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/make-money/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--make-love",
+      "file": "audio/holiznacc0--make-love.mp3",
+      "title": "Make Love",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/make-love/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/make-love/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--make-funk",
+      "file": "audio/holiznacc0--make-funk.mp3",
+      "title": "Make Funk",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/bassic/make-funk/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/bassic/make-funk/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--life-on-cassette",
+      "file": "audio/holiznacc0--life-on-cassette.mp3",
+      "title": "Life On Cassette",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/life-on-cassette/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/life-on-cassette/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--decent-person",
+      "file": "audio/holiznacc0--decent-person.mp3",
+      "title": "Decent Person",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/decent-person/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/decent-person/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--i-need-you",
+      "file": "audio/holiznacc0--i-need-you.mp3",
+      "title": "I Need You",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/i-need-you/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/i-need-you/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--finding-yourself",
+      "file": "audio/holiznacc0--finding-yourself.mp3",
+      "title": "Finding Yourself",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/finding-yourself/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/finding-yourself/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--no-one-is-perfect",
+      "file": "audio/holiznacc0--no-one-is-perfect.mp3",
+      "title": "No One Is Perfect",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/no-one-is-perfect-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/no-one-is-perfect-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--self-care",
+      "file": "audio/holiznacc0--self-care.mp3",
+      "title": "Self Care",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/self-care/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/self-care/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--please-don-t-go",
+      "file": "audio/holiznacc0--please-don-t-go.mp3",
+      "title": "Please Don't Go",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/please-dont-go-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/please-dont-go-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--falling-in-love-with-yourself",
+      "file": "audio/holiznacc0--falling-in-love-with-yourself.mp3",
+      "title": "Falling In Love With Yourself",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/falling-in-love-with-yourself/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/falling-in-love-with-yourself/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--find-your-peace",
+      "file": "audio/holiznacc0--find-your-peace.mp3",
+      "title": "Find Your Peace",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/find-your-peace/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/find-your-peace/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--timelines",
+      "file": "audio/holiznacc0--timelines.mp3",
+      "title": "Timelines",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/timelines/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/timelines/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--city-lights",
+      "file": "audio/holiznacc0--city-lights.mp3",
+      "title": "City Lights",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/city-lights-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/city-lights-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--the-good-times",
+      "file": "audio/holiznacc0--the-good-times.mp3",
+      "title": "The Good Times",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/the-good-times/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/the-good-times/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--relax-a-while",
+      "file": "audio/holiznacc0--relax-a-while.mp3",
+      "title": "Relax A While",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/relax-a-while/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/be-happy-with-who-you-are/relax-a-while/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--1-jazz",
+      "file": "audio/holiznacc0--1-jazz.mp3",
+      "title": "1 (jazz)",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/1-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/1-jazz/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--2-jazz",
+      "file": "audio/holiznacc0--2-jazz.mp3",
+      "title": "2 (jazz)",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/2-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/2-jazz/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--3-jazz",
+      "file": "audio/holiznacc0--3-jazz.mp3",
+      "title": "3 (jazz)",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/3-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/3-jazz/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--4-jazz",
+      "file": "audio/holiznacc0--4-jazz.mp3",
+      "title": "4 (jazz)",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/4-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/4-jazz/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--busking-in-the-sunlight",
+      "file": "audio/holiznacc0--busking-in-the-sunlight.mp3",
+      "title": "Busking In the SunLight",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/busking-in-the-sunlight/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/busking-in-the-sunlight/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--bus-stop",
+      "file": "audio/holiznacc0--bus-stop.mp3",
+      "title": "Bus Stop",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/bus-stop/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/bus-stop/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--busted-ac-unit",
+      "file": "audio/holiznacc0--busted-ac-unit.mp3",
+      "title": "Busted AC Unit",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/busted-ac-unit/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/busted-ac-unit/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--nowhere-to-be-nothing-to-do",
+      "file": "audio/holiznacc0--nowhere-to-be-nothing-to-do.mp3",
+      "title": "Nowhere To Be, Nothing To Do",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/nowhere-to-be-nothing-to-do/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/nowhere-to-be-nothing-to-do/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--hooptie-with-the-windows-down",
+      "file": "audio/holiznacc0--hooptie-with-the-windows-down.mp3",
+      "title": "Hooptie With The Windows Down",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/hooptie-with-the-windows-down/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/hooptie-with-the-windows-down/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--moving-forward",
+      "file": "audio/holiznacc0--moving-forward.mp3",
+      "title": "Moving Forward",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/moving-forward/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/moving-forward/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--day-trips",
+      "file": "audio/holiznacc0--day-trips.mp3",
+      "title": "Day Trips",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/day-trips/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/day-trips/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--endless-grind",
+      "file": "audio/holiznacc0--endless-grind.mp3",
+      "title": "Endless Grind",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/endless-grind/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/endless-grind/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--sky-scrapers",
+      "file": "audio/holiznacc0--sky-scrapers.mp3",
+      "title": "Sky Scrapers",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/sky-scrapers/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/sky-scrapers/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--on-foot",
+      "file": "audio/holiznacc0--on-foot.mp3",
+      "title": "On Foot",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/on-foot/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/on-foot/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--fresh-fit",
+      "file": "audio/holiznacc0--fresh-fit.mp3",
+      "title": "Fresh Fit",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/fresh-fit/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/fresh-fit/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--studio-apartment",
+      "file": "audio/holiznacc0--studio-apartment.mp3",
+      "title": "Studio Apartment",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/city-slacker/studio-apartment/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/city-slacker/studio-apartment/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--unwind",
+      "file": "audio/holiznacc0--unwind.mp3",
+      "title": "Unwind",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/kick-it-laid-back-hiphop/unwind/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/kick-it-laid-back-hiphop/unwind/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--everything-you-ever-dreamed",
+      "file": "audio/holiznacc0--everything-you-ever-dreamed.mp3",
+      "title": "Everything You Ever Dreamed",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/everything-you-ever-dreamed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/everything-you-ever-dreamed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--pretty-little-lies",
+      "file": "audio/holiznacc0--pretty-little-lies.mp3",
+      "title": "Pretty Little Lies",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/pretty-little-lies-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/pretty-little-lies-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--something-in-the-air",
+      "file": "audio/holiznacc0--something-in-the-air.mp3",
+      "title": "Something In the Air",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/something-in-the-air/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/something-in-the-air/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--small-towns-smaller-lives",
+      "file": "audio/holiznacc0--small-towns-smaller-lives.mp3",
+      "title": "Small Towns Smaller Lives",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/small-towns-smaller-lives/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/small-towns-smaller-lives/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--mundane",
+      "file": "audio/holiznacc0--mundane.mp3",
+      "title": "Mundane",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/mundane/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/mundane/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--glad-to-be-stuck-inside",
+      "file": "audio/holiznacc0--glad-to-be-stuck-inside.mp3",
+      "title": "Glad To Be Stuck Inside",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/glad-to-be-stuck-insidemp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/glad-to-be-stuck-insidemp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--vintage",
+      "file": "audio/holiznacc0--vintage.mp3",
+      "title": "Vintage",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/vintagemp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/vintagemp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--morning-coffee",
+      "file": "audio/holiznacc0--morning-coffee.mp3",
+      "title": "Morning Coffee",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/morning-coffee/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/morning-coffee/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--a-little-shade",
+      "file": "audio/holiznacc0--a-little-shade.mp3",
+      "title": "A Little Shade",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/a-little-shade/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/a-little-shade/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--all-the-way-sad",
+      "file": "audio/holiznacc0--all-the-way-sad.mp3",
+      "title": "All The Way Sad",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/all-the-way-sad/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/all-the-way-sad/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ghosts",
+      "file": "audio/holiznacc0--ghosts.mp3",
+      "title": "Ghosts",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/ghosts-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/ghosts-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--shut-up-or-shut-in",
+      "file": "audio/holiznacc0--shut-up-or-shut-in.mp3",
+      "title": "Shut up, or shut in",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/shut-up-or-shut-in/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/shut-up-or-shut-in/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--whatever",
+      "file": "audio/holiznacc0--whatever.mp3",
+      "title": "Whatever",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/whatever-2/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/whatever-2/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--yesterday",
+      "file": "audio/holiznacc0--yesterday.mp3",
+      "title": "Yesterday",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/yesterday-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/yesterday-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--letting-go-of-the-past",
+      "file": "audio/holiznacc0--letting-go-of-the-past.mp3",
+      "title": "Letting Go Of The Past",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/letting-go-of-the-past/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/letting-go-of-the-past/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--cellar-door",
+      "file": "audio/holiznacc0--cellar-door.mp3",
+      "title": "Cellar Door",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/cellar-door/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/cellar-door/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--you-loved-me-once",
+      "file": "audio/holiznacc0--you-loved-me-once.mp3",
+      "title": "You Loved Me Once",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/you-loved-me-once/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/you-loved-me-once/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--puppy-love",
+      "file": "audio/holiznacc0--puppy-love.mp3",
+      "title": "Puppy Love",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/puppy-love/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/puppy-love/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--clouds",
+      "file": "audio/holiznacc0--clouds.mp3",
+      "title": "Clouds",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/clouds-6/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/clouds-6/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--busted-jazz",
+      "file": "audio/holiznacc0--busted-jazz.mp3",
+      "title": "Busted Jazz",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/busted-jazz-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/busted-jazz-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--autumn",
+      "file": "audio/holiznacc0--autumn.mp3",
+      "title": "Autumn",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/autumn/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/autumn/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--mixed-signals",
+      "file": "audio/holiznacc0--mixed-signals.mp3",
+      "title": "Mixed Signals",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/mixed-signals/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/mixed-signals/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--new-shoes",
+      "file": "audio/holiznacc0--new-shoes.mp3",
+      "title": "New Shoes",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/new-shoes/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/new-shoes/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--foggy-headed",
+      "file": "audio/holiznacc0--foggy-headed.mp3",
+      "title": "Foggy Headed",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/foggy-headed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/foggy-headed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ramen",
+      "file": "audio/holiznacc0--ramen.mp3",
+      "title": "Ramen",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/ramenmp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/ramenmp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--happy-but-a-little-off",
+      "file": "audio/holiznacc0--happy-but-a-little-off.mp3",
+      "title": "Happy, but a little off",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/happy-but-a-little-off/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/happy-but-a-little-off/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--static",
+      "file": "audio/holiznacc0--static.mp3",
+      "title": "Static",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/static-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/static-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--creature-comforts",
+      "file": "audio/holiznacc0--creature-comforts.mp3",
+      "title": "Creature Comforts",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/creature-comforts/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/creature-comforts/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--not-it",
+      "file": "audio/holiznacc0--not-it.mp3",
+      "title": "Not It",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/not-it-lofimp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/not-it-lofimp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--plants",
+      "file": "audio/holiznacc0--plants.mp3",
+      "title": "Plants",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/plantsmp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/plantsmp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--seasons-change",
+      "file": "audio/holiznacc0--seasons-change.mp3",
+      "title": "Seasons Change",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/seasons-change/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/seasons-change/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--kodama",
+      "file": "audio/holiznacc0--kodama.mp3",
+      "title": "Kodama",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/kodama/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/kodama/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--kitsune",
+      "file": "audio/holiznacc0--kitsune.mp3",
+      "title": "Kitsune",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/kitsune/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/kitsune/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tengu",
+      "file": "audio/holiznacc0--tengu.mp3",
+      "title": "Tengu",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tengu/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tengu/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tanuki",
+      "file": "audio/holiznacc0--tanuki.mp3",
+      "title": "Tanuki",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tanuki/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tanuki/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tsukumogami",
+      "file": "audio/holiznacc0--tsukumogami.mp3",
+      "title": "Tsukumogami",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tsukumogami/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/tsukumogami/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--yuki-onna",
+      "file": "audio/holiznacc0--yuki-onna.mp3",
+      "title": "Yuki-onna",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/nature-spirit/yuki-onna/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/nature-spirit/yuki-onna/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--currents-we-used-to-know",
+      "file": "audio/holiznacc0--currents-we-used-to-know.mp3",
+      "title": "Currents We Used to Know",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/currents-we-used-to-know/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/currents-we-used-to-know/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--i-don-t-understand-a-thing",
+      "file": "audio/holiznacc0--i-don-t-understand-a-thing.mp3",
+      "title": "I Don't Understand A Thing",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/i-dont-understand-a-thing/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/i-dont-understand-a-thing/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--deja-vu",
+      "file": "audio/holiznacc0--deja-vu.mp3",
+      "title": "Deja Vu",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/deja-vu/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/deja-vu/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--boredom",
+      "file": "audio/holiznacc0--boredom.mp3",
+      "title": "Boredom",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/boredom/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/boredom/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--anxiety",
+      "file": "audio/holiznacc0--anxiety.mp3",
+      "title": "Anxiety",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/anxiety/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/anxiety/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--love",
+      "file": "audio/holiznacc0--love.mp3",
+      "title": "Love",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/love-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/love-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--old-age",
+      "file": "audio/holiznacc0--old-age.mp3",
+      "title": "Old Age",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/old-age/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/old-age/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--dreams",
+      "file": "audio/holiznacc0--dreams.mp3",
+      "title": "Dreams",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/dreams-3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/dreams-3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--agoraphobia",
+      "file": "audio/holiznacc0--agoraphobia.mp3",
+      "title": "Agoraphobia",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/agoraphobia-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-1/agoraphobia-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--night-driving",
+      "file": "audio/holiznacc0--night-driving.mp3",
+      "title": "Night Driving",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/night-driving/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/night-driving/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--families",
+      "file": "audio/holiznacc0--families.mp3",
+      "title": "Families",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/families/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/families/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--addictions",
+      "file": "audio/holiznacc0--addictions.mp3",
+      "title": "Addictions",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/addictions/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/addictions/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--opinions",
+      "file": "audio/holiznacc0--opinions.mp3",
+      "title": "Opinions",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/opinions/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/opinions/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--quiet-houses",
+      "file": "audio/holiznacc0--quiet-houses.mp3",
+      "title": "Quiet Houses",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/quiet-houses/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/quiet-houses/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--credit-cards",
+      "file": "audio/holiznacc0--credit-cards.mp3",
+      "title": "Credit Cards",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/credit-cards/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/credit-cards/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--crime",
+      "file": "audio/holiznacc0--crime.mp3",
+      "title": "Crime",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/crime-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/crime-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--confusion",
+      "file": "audio/holiznacc0--confusion.mp3",
+      "title": "Confusion",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/confusion/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/confusion/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--dream-pop",
+      "file": "audio/holiznacc0--dream-pop.mp3",
+      "title": "Dream Pop",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/dream-pop/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/only-in-the-milky-way-part-3/dream-pop/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--fractured",
+      "file": "audio/holiznacc0--fractured.mp3",
+      "title": "Fractured",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/fractured-2/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/fractured-2/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tranquil-mindscape",
+      "file": "audio/holiznacc0--tranquil-mindscape.mp3",
+      "title": "Tranquil Mindscape",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tranquil-mindscape-lofi-happy-reflection/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tranquil-mindscape-lofi-happy-reflection/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--bubbles",
+      "file": "audio/holiznacc0--bubbles.mp3",
+      "title": "Bubbles",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/bubbles-lofi-bright-relaxed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/bubbles-lofi-bright-relaxed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--calm-currents",
+      "file": "audio/holiznacc0--calm-currents.mp3",
+      "title": "Calm Currents",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/calm-currents-lofi-relax-calm/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/calm-currents-lofi-relax-calm/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--canon-event",
+      "file": "audio/holiznacc0--canon-event.mp3",
+      "title": "Canon Event",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/canon-event-lofi-sad-reflection/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/canon-event-lofi-sad-reflection/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--birds",
+      "file": "audio/holiznacc0--birds.mp3",
+      "title": "Birds",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/birds-lofi-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/birds-lofi-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--doodles",
+      "file": "audio/holiznacc0--doodles.mp3",
+      "title": "Doodles",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/doodles-lofi-happy-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/doodles-lofi-happy-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ghost-town",
+      "file": "audio/holiznacc0--ghost-town.mp3",
+      "title": "Ghost Town",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ghost-town-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ghost-town-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--theta-frequency",
+      "file": "audio/holiznacc0--theta-frequency.mp3",
+      "title": "Theta Frequency",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/theta-frequency-lofi-chill-calm/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/theta-frequency-lofi-chill-calm/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tokyo-sunset",
+      "file": "audio/holiznacc0--tokyo-sunset.mp3",
+      "title": "Tokyo Sunset",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tokyo-sunset-lofi-peaceful-soft/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tokyo-sunset-lofi-peaceful-soft/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--peaceful-drift",
+      "file": "audio/holiznacc0--peaceful-drift.mp3",
+      "title": "Peaceful Drift",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/peaceful-drift-lofi-nostalgic-calm/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/peaceful-drift-lofi-nostalgic-calm/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--going-home",
+      "file": "audio/holiznacc0--going-home.mp3",
+      "title": "Going Home",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/going-home-3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/going-home-3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--shimmer",
+      "file": "audio/holiznacc0--shimmer.mp3",
+      "title": "Shimmer",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/shimmer-lofi-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/shimmer-lofi-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--down-time",
+      "file": "audio/holiznacc0--down-time.mp3",
+      "title": "Down Time",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/down-time-lofi-peaceful-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/down-time-lofi-peaceful-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--nine-to-death",
+      "file": "audio/holiznacc0--nine-to-death.mp3",
+      "title": "Nine To Death",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/nine-to-death/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/nine-to-death/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--walking-away",
+      "file": "audio/holiznacc0--walking-away.mp3",
+      "title": "Walking Away",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/walking-away-lofi-peaceful-motivating/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/walking-away-lofi-peaceful-motivating/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--forgotten-keep-sakes",
+      "file": "audio/holiznacc0--forgotten-keep-sakes.mp3",
+      "title": "Forgotten Keep Sakes",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/forgotten-keep-sakes-lofi-sad-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/forgotten-keep-sakes-lofi-sad-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--one-good-day",
+      "file": "audio/holiznacc0--one-good-day.mp3",
+      "title": "One Good Day",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-good-day-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/one-good-day-1/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--before-everything",
+      "file": "audio/holiznacc0--before-everything.mp3",
+      "title": "Before Everything",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/before-everything-lofi-nostalgic-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/before-everything-lofi-nostalgic-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--when-i-was-human",
+      "file": "audio/holiznacc0--when-i-was-human.mp3",
+      "title": "When I Was Human",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-i-was-human-lofi-chill/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/when-i-was-human-lofi-chill/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--yet-again",
+      "file": "audio/holiznacc0--yet-again.mp3",
+      "title": "Yet Again",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/yet-again-lofi-peaceful/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/yet-again-lofi-peaceful/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ode-to-forgetting",
+      "file": "audio/holiznacc0--ode-to-forgetting.mp3",
+      "title": "Ode To Forgetting",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ode-to-forgetting-lofi-chill-relax/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ode-to-forgetting-lofi-chill-relax/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--break-from-reality",
+      "file": "audio/holiznacc0--break-from-reality.mp3",
+      "title": "Break From Reality",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/break-from-reality-lofi-peaceful-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/break-from-reality-lofi-peaceful-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--ocean-breeze",
+      "file": "audio/holiznacc0--ocean-breeze.mp3",
+      "title": "Ocean Breeze",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ocean-breeze-lofi-ukulele-peaceful-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/ocean-breeze-lofi-ukulele-peaceful-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--saturation",
+      "file": "audio/holiznacc0--saturation.mp3",
+      "title": "Saturation",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/saturation-lofi-calm-relaxed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/saturation-lofi-calm-relaxed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--wave-maker",
+      "file": "audio/holiznacc0--wave-maker.mp3",
+      "title": "Wave Maker",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/wave-maker-lofi-dreamy-retro/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/wave-maker-lofi-dreamy-retro/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--on-the-other-side-of-bad",
+      "file": "audio/holiznacc0--on-the-other-side-of-bad.mp3",
+      "title": "On The Other Side Of Bad",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/on-the-other-side-of-bad-lofi-nostalgic-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/on-the-other-side-of-bad-lofi-nostalgic-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--orbs-in-a-photo",
+      "file": "audio/holiznacc0--orbs-in-a-photo.mp3",
+      "title": "Orbs In A Photo",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/orbs-in-a-photo-lofi-chill-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/orbs-in-a-photo-lofi-chill-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--complicated-feelings",
+      "file": "audio/holiznacc0--complicated-feelings.mp3",
+      "title": "Complicated Feelings",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/complicated-feelings-lofi-dreamy-relaxed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/complicated-feelings-lofi-dreamy-relaxed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--wetlands",
+      "file": "audio/holiznacc0--wetlands.mp3",
+      "title": "Wetlands",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/wetlands-lofi-calm-relaxed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/wetlands-lofi-calm-relaxed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--projector-screen",
+      "file": "audio/holiznacc0--projector-screen.mp3",
+      "title": "Projector Screen",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/projector-screen-lofi-happy-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/projector-screen-lofi-happy-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--tetrapod",
+      "file": "audio/holiznacc0--tetrapod.mp3",
+      "title": "Tetrapod",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tetrapod-lofi-relaxing-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/tetrapod-lofi-relaxing-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--dreamshifter",
+      "file": "audio/holiznacc0--dreamshifter.mp3",
+      "title": "Dreamshifter",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamshifter-lofi-relaxed-nostalgic/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/dreamshifter-lofi-relaxed-nostalgic/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--orchid",
+      "file": "audio/holiznacc0--orchid.mp3",
+      "title": "Orchid",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/orchid-lofi-nostalgic-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/orchid-lofi-nostalgic-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--summer-break",
+      "file": "audio/holiznacc0--summer-break.mp3",
+      "title": "Summer Break",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/summer-break-lofi-nostalgic-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/summer-break-lofi-nostalgic-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--the-best-of-times",
+      "file": "audio/holiznacc0--the-best-of-times.mp3",
+      "title": "The Best Of Times",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/the-best-of-times-lofi-relaxing-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/the-best-of-times-lofi-relaxing-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--infinite-echoes",
+      "file": "audio/holiznacc0--infinite-echoes.mp3",
+      "title": "Infinite Echoes",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/infinite-echoes-lofi-dreamy-soft/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/infinite-echoes-lofi-dreamy-soft/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--transient",
+      "file": "audio/holiznacc0--transient.mp3",
+      "title": "Transient",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/transient-lofi-nostalgic-mp3/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/transient-lofi-nostalgic-mp3/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--into-the-mist",
+      "file": "audio/holiznacc0--into-the-mist.mp3",
+      "title": "Into The Mist",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/into-the-mist-lofi-calm-relaxed/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/into-the-mist-lofi-calm-relaxed/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--chills",
+      "file": "audio/holiznacc0--chills.mp3",
+      "title": "Chills",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/sad-beats/chills/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/sad-beats/chills/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--feeling-human-again",
+      "file": "audio/holiznacc0--feeling-human-again.mp3",
+      "title": "Feeling Human Again",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/feeling-human-again/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/feeling-human-again/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--toy-box",
+      "file": "audio/holiznacc0--toy-box.mp3",
+      "title": "Toy Box",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/toy-box/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/toy-box/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--foley-of-man",
+      "file": "audio/holiznacc0--foley-of-man.mp3",
+      "title": "Foley Of Man",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/foley-of-man/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/foley-of-man/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--hope-on-repeat",
+      "file": "audio/holiznacc0--hope-on-repeat.mp3",
+      "title": "Hope On Repeat",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/hope-on-repeat/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/hope-on-repeat/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--spring-in-sight",
+      "file": "audio/holiznacc0--spring-in-sight.mp3",
+      "title": "Spring In Sight",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/spring-in-sight/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/spring-in-sight/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--seasonal-depression",
+      "file": "audio/holiznacc0--seasonal-depression.mp3",
+      "title": "Seasonal Depression",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/seasonal-depression/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/spring-woke-me-up/seasonal-depression/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--roof-tops",
+      "file": "audio/holiznacc0--roof-tops.mp3",
+      "title": "Roof Tops",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/roof-tops/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/roof-tops/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--summer-felt-longer-then",
+      "file": "audio/holiznacc0--summer-felt-longer-then.mp3",
+      "title": "Summer Felt Longer Then",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/summer-felt-longer-then/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/summer-felt-longer-then/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--the-last-long-day",
+      "file": "audio/holiznacc0--the-last-long-day.mp3",
+      "title": "The Last Long Day",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/the-last-long-day/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/the-last-long-day/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--august-never-lasts",
+      "file": "audio/holiznacc0--august-never-lasts.mp3",
+      "title": "August Never Lasts",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/august-never-lasts/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/august-never-lasts/"
+      ]
+    },
+    {
+      "id": "lofi:holiznacc0--faded-in-the-sunlight",
+      "file": "audio/holiznacc0--faded-in-the-sunlight.mp3",
+      "title": "Faded in the Sunlight",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/faded-in-the-sunlight/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/summer-air-lo-fi/faded-in-the-sunlight/"
+      ]
+    }
+  ]
+}
