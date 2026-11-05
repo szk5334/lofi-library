@@ -4,1507 +4,1175 @@
     "listed": 166,
     "in_library": 166,
     "downloaded": 0,
-    "mastered": 166,
+    "mastered": 0,
     "failed": 0,
     "pending": 0,
     "finished": 166,
     "purged": [],
-    "audio_mb": 686.4,
-    "minutes": 856
+    "audio_mb": 374.1,
+    "minutes": 467
   },
   "tracks": [
     {
       "id": "lofi:holiznacc0--2-hour-delay",
       "title": "2 Hour Delay",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZtIu0scNVo0F82GthYO42i4zvmoyuy9W8Y35NxVT.mp3",
-      "was_lufs": -10.7,
+      "status": "kept",
       "seconds": 132
     },
     {
       "id": "lofi:holiznacc0--winter-blues",
       "title": "Winter Blues",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/b9aaLxa3HIdDsfDmLDUsR27znNe0aldiVWRJbDF9.mp3",
-      "was_lufs": -13.0,
+      "status": "kept",
       "seconds": 222
     },
     {
       "id": "lofi:holiznacc0--first-snow",
       "title": "First Snow",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/aNMGi5zWqUxP0qP9De7WJSEV43p0mkZiFrJGuljD.mp3",
-      "was_lufs": -16.8,
+      "status": "kept",
       "seconds": 171
     },
     {
       "id": "lofi:holiznacc0--snow-drift",
       "title": "Snow Drift",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/K0WPofXI9S27E24ORSKxrYhlyFe2g7zldVkmR6KF.mp3",
-      "was_lufs": -9.2,
+      "status": "kept",
       "seconds": 171
     },
     {
       "id": "lofi:holiznacc0--fire-place",
       "title": "Fire Place",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qUQGTyL3bMTaIVqsuZ3dUS2u2ep2ZmVr86sWwZ0j.mp3",
-      "was_lufs": -15.2,
+      "status": "kept",
       "seconds": 168
     },
     {
       "id": "lofi:holiznacc0--when-time-called-me-darling",
       "title": "When Time Called Me Darling",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3Jox99wj2ur7YR7O1ug3fdP8NdOOpmHfVPFBRhq5.mp3",
-      "was_lufs": -10.7,
+      "status": "kept",
       "seconds": 213
     },
     {
       "id": "lofi:holiznacc0--one-night-in-france",
       "title": "One Night In France",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hgY8pG5KicULRbUJjUVavqs1h53lNSHdLptPoCwS.mp3",
-      "was_lufs": -15.2,
+      "status": "kept",
       "seconds": 195
     },
     {
       "id": "lofi:holiznacc0--still-life",
       "title": "Still Life",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/X2xAunfMENT4KSm1XpnQC2qUUC4hcMVbDXBMw9GI.mp3",
-      "was_lufs": -12.6,
+      "status": "kept",
       "seconds": 135
     },
     {
       "id": "lofi:holiznacc0--moon-unit",
       "title": "Moon Unit",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CbNZO1QUuJq1f50RHzZ5kykNj1hdqT04UaWOYSNf.mp3",
-      "was_lufs": -13.2,
+      "status": "kept",
       "seconds": 172
     },
     {
       "id": "lofi:holiznacc0--lucid",
       "title": "Lucid",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/je7RethXWuduCoRV6Gq3w25yDXvxYnnOWt5OGlgv.mp3",
-      "was_lufs": -10.8,
+      "status": "kept",
       "seconds": 143
     },
     {
       "id": "lofi:holiznacc0--warm-fuzz",
       "title": "Warm Fuzz",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Qrd0JkjTC7XXJwtS6LvCHIJ9K1FLXewdrYOQHhc5.mp3",
-      "was_lufs": -14.6,
+      "status": "kept",
       "seconds": 170
     },
     {
       "id": "lofi:holiznacc0--ease-into-night",
       "title": "Ease into Night",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/XobMN43VCXdGmXCTuVc964P0O4gzMe0p2RoPTLKC.mp3",
-      "was_lufs": -17.0,
+      "status": "kept",
       "seconds": 151
     },
     {
       "id": "lofi:holiznacc0--never-sleeping",
       "title": "Never Sleeping",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/1aZjvabb5YPX4Rg6Vgnf4PDbHrYDMirHm8g21YpD.mp3",
-      "was_lufs": -13.9,
+      "status": "kept",
       "seconds": 185
     },
     {
       "id": "lofi:holiznacc0--color-of-a-soul",
       "title": "Color Of A Soul",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/xRID4LBzd558K0DI9fjemJnZrxLueiba0GTOxUwL.mp3",
-      "was_lufs": -14.6,
+      "status": "kept",
       "seconds": 157
     },
     {
       "id": "lofi:holiznacc0--dreamy-reverie",
       "title": "Dreamy Reverie",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Bo2XWazV4kHpnPksjJGRRLr16EmOE44NZnMITZaB.mp3",
-      "was_lufs": -14.0,
+      "status": "kept",
       "seconds": 144
     },
     {
       "id": "lofi:holiznacc0--waiting-around",
       "title": "Waiting Around",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/aVNvUkfJVw1NI9zHSC3I8d760YbwCt31a3Wi6Ydl.mp3",
-      "was_lufs": -11.3,
+      "status": "kept",
       "seconds": 150
     },
     {
       "id": "lofi:holiznacc0--reminders",
       "title": "Reminders",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/r7Y9jjWggY2LIKonpPhkYrAQNJgm2daRHr5Kcc0I.mp3",
-      "was_lufs": -15.2,
+      "status": "kept",
       "seconds": 145
     },
     {
       "id": "lofi:holiznacc0--ocean-memory",
       "title": "Ocean Memory",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/jkiKJYaKX3gCpdz1GF8UuNr17z0h0WAf8bIFY409.mp3",
-      "was_lufs": -14.4,
+      "status": "kept",
       "seconds": 147
     },
     {
       "id": "lofi:holiznacc0--washed-up",
       "title": "Washed Up",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/nOI7iSZu1JomcCiZGL8R8hwVQEQjcDv49AUyCLnz.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 233
     },
     {
       "id": "lofi:holiznacc0--cold-salt-water",
       "title": "Cold (Salt) Water",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IFLlWlpbcoM1IKpR2h0mM5dPUrnPCXly2OiWztyA.mp3",
-      "was_lufs": -14.8,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--so-broke",
       "title": "So Broke",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7UujaMOPwxvjnEe1RwqDEnT9OJ0uXGwqOosvUiSD.mp3",
-      "was_lufs": -11.1,
+      "status": "kept",
       "seconds": 220
     },
     {
       "id": "lofi:holiznacc0--come-again",
       "title": "Come Again",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/kaOJPdpxmsRiPqkfKV2qY5bwUUad4g1bzQhhAjy3.mp3",
-      "was_lufs": -12.8,
+      "status": "kept",
       "seconds": 180
     },
     {
       "id": "lofi:holiznacc0--keeping-cool",
       "title": "Keeping Cool",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2hdKPYJKvrfPtuBAVUWU46IJkyFmWMb0QTPvqo2w.mp3",
-      "was_lufs": -11.9,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--poor-but-happy",
       "title": "Poor, But Happy",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/nKxps329GJZbymP5XSqrcvC9kPitq9DbUKmnnhkU.mp3",
-      "was_lufs": -9.9,
+      "status": "kept",
       "seconds": 127
     },
     {
       "id": "lofi:holiznacc0--eat",
       "title": "Eat",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rIxMQw5yQbv2a4TK94OMmFSykFv7WynFUBB3qelH.mp3",
-      "was_lufs": -10.1,
+      "status": "kept",
       "seconds": 178
     },
     {
       "id": "lofi:holiznacc0--sleep",
       "title": "Sleep",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/NZJ27ASSRdf0Amk9BzKsVbr1N7aAqxNlCwAxojxg.mp3",
-      "was_lufs": -10.7,
+      "status": "kept",
       "seconds": 194
     },
     {
       "id": "lofi:holiznacc0--breath",
       "title": "Breath",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/MTokJHYghctnM7TK15Y79rWFMqRg1NTjusxSjkbZ.mp3",
-      "was_lufs": -10.6,
+      "status": "kept",
       "seconds": 151
     },
     {
       "id": "lofi:holiznacc0--make-money",
       "title": "Make Money",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4rHAGwpxfZXDye4JNMh9EQs6MsDoQgPyCrxC4pzR.mp3",
-      "was_lufs": -10.8,
+      "status": "kept",
       "seconds": 223
     },
     {
       "id": "lofi:holiznacc0--make-love",
       "title": "Make Love",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/52htwBAJTL1HZI5L59sDRvSw0r7k67A3UL1eL0iD.mp3",
-      "was_lufs": -10.4,
+      "status": "kept",
       "seconds": 225
     },
     {
       "id": "lofi:holiznacc0--make-funk",
       "title": "Make Funk",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gvipQswrNI4uF5PNymw5d1cWq9gqqdTIsgHDMKCJ.mp3",
-      "was_lufs": -9.4,
+      "status": "kept",
       "seconds": 163
     },
     {
       "id": "lofi:holiznacc0--life-on-cassette",
       "title": "Life On Cassette",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/MYjVCcbfTE7rjSOgLOcL9knoc6lkk6IN4PlUacfc.mp3",
-      "was_lufs": -8.8,
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "lofi:holiznacc0--decent-person",
       "title": "Decent Person",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/N1tzMRSzEv1qWkPlDBinuSCW1Aba6OOfhiJYteLg.mp3",
-      "was_lufs": -9.4,
+      "status": "kept",
       "seconds": 122
     },
     {
       "id": "lofi:holiznacc0--i-need-you",
       "title": "I Need You",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/bu0ohSLICdZU3aGVe3g0trLNZGUhg4Eu0xR2xRGL.mp3",
-      "was_lufs": -11.7,
+      "status": "kept",
       "seconds": 204
     },
     {
       "id": "lofi:holiznacc0--finding-yourself",
       "title": "Finding Yourself",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/oiidxxRMyz6B7XOLx2IOfeHKb1Pq3414iDMKQtvk.mp3",
-      "was_lufs": -8.9,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--no-one-is-perfect",
       "title": "No One Is Perfect",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/UlY5cCRb4bQZgaQeSbawtEQui8tGFVnIMlgeCfwL.mp3",
-      "was_lufs": -11.9,
+      "status": "kept",
       "seconds": 184
     },
     {
       "id": "lofi:holiznacc0--self-care",
       "title": "Self Care",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CySxTpLZ1ycXig6r2JuqJXW6N6aUxf5OQcXPp9fK.mp3",
-      "was_lufs": -10.3,
+      "status": "kept",
       "seconds": 140
     },
     {
       "id": "lofi:holiznacc0--please-don-t-go",
       "title": "Please Don't Go",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/D5klwyMsZK8MgTqSPRiN7EziLUx5LaeDtJgTZ6IC.mp3",
-      "was_lufs": -9.3,
+      "status": "kept",
       "seconds": 240
     },
     {
       "id": "lofi:holiznacc0--falling-in-love-with-yourself",
       "title": "Falling In Love With Yourself",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/laZw1p619qjvB4mDMv4Tv7D1pTQbMN2YtUk45Gcr.mp3",
-      "was_lufs": -9.3,
+      "status": "kept",
       "seconds": 163
     },
     {
       "id": "lofi:holiznacc0--find-your-peace",
       "title": "Find Your Peace",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/XfRQmzUkddJ0aYUKbbbssERfuqtZ4kFD4f7tDbpm.mp3",
-      "was_lufs": -9.6,
+      "status": "kept",
       "seconds": 138
     },
     {
       "id": "lofi:holiznacc0--timelines",
       "title": "Timelines",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rQUa9zEiYVzSGC3IQlvdYEmszMWrKGkeQ7ou0nP6.mp3",
-      "was_lufs": -10.3,
+      "status": "kept",
       "seconds": 181
     },
     {
       "id": "lofi:holiznacc0--city-lights",
       "title": "City Lights",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3rTPHXICTqxoPmS0YLVUSm9qwOWoJxiXTaOy2vmx.mp3",
-      "was_lufs": -9.7,
+      "status": "kept",
       "seconds": 276
     },
     {
       "id": "lofi:holiznacc0--the-good-times",
       "title": "The Good Times",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4e5GjL0fiBnn8ZtCegJ7U337KfG91HXRzDjE3mkg.mp3",
-      "was_lufs": -8.9,
+      "status": "kept",
       "seconds": 141
     },
     {
       "id": "lofi:holiznacc0--relax-a-while",
       "title": "Relax A While",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/EsIatyR0th9TVeYpgOhv41OJzKGQS7uE8psnnMkF.mp3",
-      "was_lufs": -9.7,
+      "status": "kept",
       "seconds": 130
     },
     {
       "id": "lofi:holiznacc0--1-jazz",
       "title": "1 (jazz)",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ClQc5eeEHJlnBM0GxgtOwzehhkht5mu57hJr7sq2.mp3",
-      "was_lufs": -10.1,
+      "status": "kept",
       "seconds": 122
     },
     {
       "id": "lofi:holiznacc0--2-jazz",
       "title": "2 (jazz)",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/RAhpT3UVJ6LGPxXrM8atr526kdskbJTAs1Fw1QRw.mp3",
-      "was_lufs": -10.4,
+      "status": "kept",
       "seconds": 161
     },
     {
       "id": "lofi:holiznacc0--3-jazz",
       "title": "3 (jazz)",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gWykWiyFIQwOsAHlAKIDpFoP0bFz3sH38oqfytFF.mp3",
-      "was_lufs": -11.5,
+      "status": "kept",
       "seconds": 162
     },
     {
       "id": "lofi:holiznacc0--4-jazz",
       "title": "4 (jazz)",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/YqPqlOeLhKM4tF78PSps9UYvvsVr7kzpsVcSzlmU.mp3",
-      "was_lufs": -11.2,
+      "status": "kept",
       "seconds": 256
     },
     {
       "id": "lofi:holiznacc0--busking-in-the-sunlight",
       "title": "Busking In the SunLight",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/kdmUgfaajJ783BvFpHmMWgdLMzVmuxhF1PFDFMCl.mp3",
-      "was_lufs": -10.5,
+      "status": "kept",
       "seconds": 262
     },
     {
       "id": "lofi:holiznacc0--bus-stop",
       "title": "Bus Stop",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/y2M3WImUyeD2ygRaNa9IsvcwjzlDPpO57bh90dmP.mp3",
-      "was_lufs": -12.1,
+      "status": "kept",
       "seconds": 196
     },
     {
       "id": "lofi:holiznacc0--busted-ac-unit",
       "title": "Busted AC Unit",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4BMpQmAdFMCQnZ1fyqZc0ZluDgJ3K59vCQjyJqWX.mp3",
-      "was_lufs": -10.6,
+      "status": "kept",
       "seconds": 151
     },
     {
       "id": "lofi:holiznacc0--nowhere-to-be-nothing-to-do",
       "title": "Nowhere To Be, Nothing To Do",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/pjBLQLijlgMFGoDGgJKzmZpj93aBbmPXv8QZPYqm.mp3",
-      "was_lufs": -16.5,
+      "status": "kept",
       "seconds": 216
     },
     {
       "id": "lofi:holiznacc0--hooptie-with-the-windows-down",
       "title": "Hooptie With The Windows Down",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/St1iQIVKqpwhbOQztN0hdX0g3oF6uMZ6fUhBBnNd.mp3",
-      "was_lufs": -14.6,
+      "status": "kept",
       "seconds": 221
     },
     {
       "id": "lofi:holiznacc0--moving-forward",
       "title": "Moving Forward",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IdkCbTfdqqPvA5UK4myb5qLVuLFjX3JKUUuNxcZT.mp3",
-      "was_lufs": -11.9,
+      "status": "kept",
       "seconds": 127
     },
     {
       "id": "lofi:holiznacc0--day-trips",
       "title": "Day Trips",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/8mlLtuhQCO7ohFxygnQb39fJBNNxM2iTjr6Bdrff.mp3",
-      "was_lufs": -11.5,
+      "status": "kept",
       "seconds": 183
     },
     {
       "id": "lofi:holiznacc0--endless-grind",
       "title": "Endless Grind",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QIaQ6S2PBm1VOfVXhLpJk7UJgg9yh3OLXiXekARt.mp3",
-      "was_lufs": -11.2,
+      "status": "kept",
       "seconds": 208
     },
     {
       "id": "lofi:holiznacc0--sky-scrapers",
       "title": "Sky Scrapers",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JhXcLguUHstucNDm9lJZmK9WD9ZQpDHqI73fXLFr.mp3",
-      "was_lufs": -10.2,
+      "status": "kept",
       "seconds": 138
     },
     {
       "id": "lofi:holiznacc0--on-foot",
       "title": "On Foot",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/vyLrc5IXkCN7734mQv3gXEBsniYXUh1QqjbglWpq.mp3",
-      "was_lufs": -10.3,
+      "status": "kept",
       "seconds": 114
     },
     {
       "id": "lofi:holiznacc0--fresh-fit",
       "title": "Fresh Fit",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/S2PVQAXdmcYCDUFXEtqPwfIX9XBAkhwiQGcKK6uj.mp3",
-      "was_lufs": -9.3,
+      "status": "kept",
       "seconds": 161
     },
     {
       "id": "lofi:holiznacc0--studio-apartment",
       "title": "Studio Apartment",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/u8bPQtcGMxlELVdu3Z44EBzVTB3rxJ9LJO9b71Os.mp3",
-      "was_lufs": -9.1,
+      "status": "kept",
       "seconds": 197
     },
     {
       "id": "lofi:holiznacc0--unwind",
       "title": "Unwind",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/LAgVpVHq5zNtFfoGRuekcRZSz9kkCpgxRjRsOqqt.mp3",
-      "was_lufs": -11.5,
+      "status": "kept",
       "seconds": 248
     },
     {
       "id": "lofi:holiznacc0--everything-you-ever-dreamed",
       "title": "Everything You Ever Dreamed",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/yFLu7P69mDjxhW2aF5MS16GVCqpw4oCqSKw4eSVN.mp3",
-      "was_lufs": -11.3,
+      "status": "kept",
       "seconds": 214
     },
     {
       "id": "lofi:holiznacc0--pretty-little-lies",
       "title": "Pretty Little Lies",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Djej42Pty0GrF6VFUNzYPDxsuhCwgWzF9ZHWFsZY.mp3",
-      "was_lufs": -17.8,
+      "status": "kept",
       "seconds": 206
     },
     {
       "id": "lofi:holiznacc0--something-in-the-air",
       "title": "Something In the Air",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/wuk3O930psKilYVATDrGLTiu5RpokFDrza69zKb9.mp3",
-      "was_lufs": -13.7,
+      "status": "kept",
       "seconds": 132
     },
     {
       "id": "lofi:holiznacc0--small-towns-smaller-lives",
       "title": "Small Towns Smaller Lives",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/0FIn9jCJbW1dgviRdVqoJWsyBCmfPZtgfNmlhy3u.mp3",
-      "was_lufs": -11.6,
+      "status": "kept",
       "seconds": 142
     },
     {
       "id": "lofi:holiznacc0--mundane",
       "title": "Mundane",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/O6KDPWo1JOIOwsdqMIA4kidFWmy029ZvVjQDJngh.mp3",
-      "was_lufs": -15.2,
+      "status": "kept",
       "seconds": 158
     },
     {
       "id": "lofi:holiznacc0--glad-to-be-stuck-inside",
       "title": "Glad To Be Stuck Inside",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2vMps2c9OEHdkncSObxKRhBtrY5tPKRxROyIM3Kw.mp3",
-      "was_lufs": -15.3,
+      "status": "kept",
       "seconds": 160
     },
     {
       "id": "lofi:holiznacc0--vintage",
       "title": "Vintage",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Bki0dtfe4SfgBMxIBMOaXcuePHGCLbaL7QjZAcH4.mp3",
-      "was_lufs": -11.8,
+      "status": "kept",
       "seconds": 174
     },
     {
       "id": "lofi:holiznacc0--morning-coffee",
       "title": "Morning Coffee",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3oECfGbiMKRefansiQFDoumFo0fXknIhsLtlE3x4.mp3",
-      "was_lufs": -12.8,
+      "status": "kept",
       "seconds": 192
     },
     {
       "id": "lofi:holiznacc0--a-little-shade",
       "title": "A Little Shade",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CLFovN6IbeopqtpHU8QCTylcoCHb0HNax8hlR3rp.mp3",
-      "was_lufs": -11.8,
+      "status": "kept",
       "seconds": 178
     },
     {
       "id": "lofi:holiznacc0--all-the-way-sad",
       "title": "All The Way Sad",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/k6ful1Fc3bJzZlXEcWBy7HVGuPOWfhkFsANqMLDx.mp3",
-      "was_lufs": -13.4,
+      "status": "kept",
       "seconds": 185
     },
     {
       "id": "lofi:holiznacc0--ghosts",
       "title": "Ghosts",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/5qztbI2J6EvQqluNEyp0FLHETVXN6Hg4NsZebj7Y.mp3",
-      "was_lufs": -10.9,
+      "status": "kept",
       "seconds": 90
     },
     {
       "id": "lofi:holiznacc0--shut-up-or-shut-in",
       "title": "Shut up, or shut in",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/kEWcorU6AOp4Tn2JQShRZbqPScSzvAvF7Puysmbr.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 120
     },
     {
       "id": "lofi:holiznacc0--whatever",
       "title": "Whatever",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3pCv4Il8crs9bd9x5bJEWlqNFUQ6Truj4qLacyHa.mp3",
-      "was_lufs": -11.2,
+      "status": "kept",
       "seconds": 230
     },
     {
       "id": "lofi:holiznacc0--yesterday",
       "title": "Yesterday",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/fgYbnjY4YMYoSScwkRcLxltEHHJViy0DKlY6OLAt.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 150
     },
     {
       "id": "lofi:holiznacc0--letting-go-of-the-past",
       "title": "Letting Go Of The Past",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4dojxk6XQD627LZg6FaKUWA7Oz2w9JHDzXd7wnzG.mp3",
-      "was_lufs": -14.2,
+      "status": "kept",
       "seconds": 179
     },
     {
       "id": "lofi:holiznacc0--cellar-door",
       "title": "Cellar Door",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/eeAaiU1mrTyyRUsh2LLHPjW3hOI5cOUCfEvRTjch.mp3",
-      "was_lufs": -11.7,
+      "status": "kept",
       "seconds": 132
     },
     {
       "id": "lofi:holiznacc0--you-loved-me-once",
       "title": "You Loved Me Once",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JCgk5OPVVGWV1sm16GX3IPpEBSthy8aQ51TyBP9s.mp3",
-      "was_lufs": -9.5,
+      "status": "kept",
       "seconds": 182
     },
     {
       "id": "lofi:holiznacc0--puppy-love",
       "title": "Puppy Love",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CSqRRH1gjD0E2oxQc4SL6MbmNuSYLYrwZ6aZqe4a.mp3",
-      "was_lufs": -9.9,
+      "status": "kept",
       "seconds": 148
     },
     {
       "id": "lofi:holiznacc0--clouds",
       "title": "Clouds",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hjYBS3lAHkfXNRjdRlACQbBwNPDMdW0dfLh4W2Tw.mp3",
-      "was_lufs": -12.7,
+      "status": "kept",
       "seconds": 229
     },
     {
       "id": "lofi:holiznacc0--busted-jazz",
       "title": "Busted Jazz",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gKRQyCxgKhxwPv4V3Hr0j8q1IaQU7fM7ROxkQVBJ.mp3",
-      "was_lufs": -10.5,
+      "status": "kept",
       "seconds": 149
     },
     {
       "id": "lofi:holiznacc0--autumn",
       "title": "Autumn",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/G9jhd1SmuzSTxEjWyzPlUKulshtcz7q4axOZDTxa.mp3",
-      "was_lufs": -12.4,
+      "status": "kept",
       "seconds": 169
     },
     {
       "id": "lofi:holiznacc0--mixed-signals",
       "title": "Mixed Signals",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/stbCbqw8U5AvZnc4frgnABvdRvFhzXWO5kFuBpi0.mp3",
-      "was_lufs": -12.0,
+      "status": "kept",
       "seconds": 109
     },
     {
       "id": "lofi:holiznacc0--new-shoes",
       "title": "New Shoes",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/lFCAIOaX9YXuVwVGHlIZhZ5iRFSFDBDXiz1kOBGA.mp3",
-      "was_lufs": -10.4,
+      "status": "kept",
       "seconds": 156
     },
     {
       "id": "lofi:holiznacc0--foggy-headed",
       "title": "Foggy Headed",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Pk3CLIg1d1BOKpDCDcfguGVECJ0j0Ox0xHbknvMd.mp3",
-      "was_lufs": -9.0,
+      "status": "kept",
       "seconds": 241
     },
     {
       "id": "lofi:holiznacc0--ramen",
       "title": "Ramen",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/fVn5fseD1bzDmbU0fxkhzufvByvMeSeNy2JAHWmR.mp3",
-      "was_lufs": -9.5,
+      "status": "kept",
       "seconds": 112
     },
     {
       "id": "lofi:holiznacc0--happy-but-a-little-off",
       "title": "Happy, but a little off",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gEpe0aJgvqkPZHOgAobxPCqRoCJ9XkdrCrV8701L.mp3",
-      "was_lufs": -13.8,
+      "status": "kept",
       "seconds": 117
     },
     {
       "id": "lofi:holiznacc0--static",
       "title": "Static",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/LPqxgye0Rv9o11df750Je5MWBJxbDUhSpszMrmjj.mp3",
-      "was_lufs": -10.3,
+      "status": "kept",
       "seconds": 145
     },
     {
       "id": "lofi:holiznacc0--creature-comforts",
       "title": "Creature Comforts",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/1186U6k2bOt7pNuiQ1F8bstYFgzO9wS0Wv8F9xIU.mp3",
-      "was_lufs": -16.6,
+      "status": "kept",
       "seconds": 171
     },
     {
       "id": "lofi:holiznacc0--not-it",
       "title": "Not It",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/w1MYaC19HagFOSBpkPXj7LmuEABahWvzzC3qgfoi.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 176
     },
     {
       "id": "lofi:holiznacc0--plants",
       "title": "Plants",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/b7Npf9c4J22DcRdEw3OvyZvLhqY5EpN5BXQuWAHK.mp3",
-      "was_lufs": -13.6,
+      "status": "kept",
       "seconds": 231
     },
     {
       "id": "lofi:holiznacc0--seasons-change",
       "title": "Seasons Change",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/wIRxuwrpiP6kLeW7Tb0pdNr1Z8oQZdG0dLJUjhtt.mp3",
-      "was_lufs": -11.7,
+      "status": "kept",
       "seconds": 132
     },
     {
       "id": "lofi:holiznacc0--kodama",
       "title": "Kodama",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IKAmprOLibPgU2PoWxvA2NWiYXhBnAKpGqyTBFs2.mp3",
-      "was_lufs": -17.9,
+      "status": "kept",
       "seconds": 150
     },
     {
       "id": "lofi:holiznacc0--kitsune",
       "title": "Kitsune",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/yd6lZAMWfhMpv9UzGUiekQNSM6NbsaQTADceqbQ7.mp3",
-      "was_lufs": -13.1,
+      "status": "kept",
       "seconds": 191
     },
     {
       "id": "lofi:holiznacc0--tengu",
       "title": "Tengu",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/8Zpx1iwTTvpUj8TMWkOiEdf0CciJgfB7E7TDJgVN.mp3",
-      "was_lufs": -15.3,
+      "status": "kept",
       "seconds": 145
     },
     {
       "id": "lofi:holiznacc0--tanuki",
       "title": "Tanuki",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7HNjeeffP1vGqNb6SMIHVV1UGmSC0hpqCnw1aMc4.mp3",
-      "was_lufs": -14.3,
+      "status": "kept",
       "seconds": 202
     },
     {
       "id": "lofi:holiznacc0--tsukumogami",
       "title": "Tsukumogami",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/OpvFTkByFXkblqQV79YqmPOglJPeFJxvadGvZtRZ.mp3",
-      "was_lufs": -15.3,
+      "status": "kept",
       "seconds": 187
     },
     {
       "id": "lofi:holiznacc0--yuki-onna",
       "title": "Yuki-onna",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/DKCUWM5I8kuTwe65BCyxiA3UJMWerOTTrfj25lTf.mp3",
-      "was_lufs": -13.5,
+      "status": "kept",
       "seconds": 174
     },
     {
       "id": "lofi:holiznacc0--currents-we-used-to-know",
       "title": "Currents We Used to Know",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ql51RhvRB19HudXPsUJbcrpv3YRM3n6IVqKffdMg.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 194
     },
     {
       "id": "lofi:holiznacc0--i-don-t-understand-a-thing",
       "title": "I Don't Understand A Thing",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Bz0kzsVrBpdQQ7bvzfxBXu2A3qAiKf22DV1YCXTE.mp3",
-      "was_lufs": -13.8,
+      "status": "kept",
       "seconds": 163
     },
     {
       "id": "lofi:holiznacc0--deja-vu",
       "title": "Deja Vu",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/0VhNkDqzp4oXCxCsEEVTcjydIvOAOQu2TT0KwUyO.mp3",
-      "was_lufs": -12.4,
+      "status": "kept",
       "seconds": 124
     },
     {
       "id": "lofi:holiznacc0--boredom",
       "title": "Boredom",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/bjbzOIpmAIJcjJh9iCeTcSTS7w0FlDTnvANB4laC.mp3",
-      "was_lufs": -13.6,
+      "status": "kept",
       "seconds": 170
     },
     {
       "id": "lofi:holiznacc0--anxiety",
       "title": "Anxiety",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/f1JQKcYyRKfDV0sO8x197PLcyqvkoOPrB7Dxsjy3.mp3",
-      "was_lufs": -17.9,
+      "status": "kept",
       "seconds": 139
     },
     {
       "id": "lofi:holiznacc0--love",
       "title": "Love",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/fKKauEU14QQbWCLTx7vVsSqQ2ddeFeVC6r4WFXgA.mp3",
-      "was_lufs": -15.0,
+      "status": "kept",
       "seconds": 187
     },
     {
       "id": "lofi:holiznacc0--old-age",
       "title": "Old Age",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/H6qP6CfBExLpo6O88Ii7E2WhzU0CI3klrE95FIxM.mp3",
-      "was_lufs": -12.8,
+      "status": "kept",
       "seconds": 213
     },
     {
       "id": "lofi:holiznacc0--dreams",
       "title": "Dreams",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/xAyC80KJnWTKV4n0AqIEhYB0JtQONTiEjPrnHxae.mp3",
-      "was_lufs": -9.0,
+      "status": "kept",
       "seconds": 304
     },
     {
       "id": "lofi:holiznacc0--agoraphobia",
       "title": "Agoraphobia",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/XLAoVHELTZzh6GUWeVQocrc9vcPLPDImT7DwFLkZ.mp3",
-      "was_lufs": -10.9,
+      "status": "kept",
       "seconds": 176
     },
     {
       "id": "lofi:holiznacc0--night-driving",
       "title": "Night Driving",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JesQEh2spMciE2gCLo9rt2EvNxugIvK4SVS2kJE5.mp3",
-      "was_lufs": -13.2,
+      "status": "kept",
       "seconds": 131
     },
     {
       "id": "lofi:holiznacc0--families",
       "title": "Families",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PT3Rh37xAKTkfw68U4X1i1sNAPLssmiu8bbulPeZ.mp3",
-      "was_lufs": -12.8,
+      "status": "kept",
       "seconds": 143
     },
     {
       "id": "lofi:holiznacc0--addictions",
       "title": "Addictions",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/a31TEzDTGddtpyVvWlRkiCm3WVfhcdXsUnJbnEOn.mp3",
-      "was_lufs": -13.7,
+      "status": "kept",
       "seconds": 130
     },
     {
       "id": "lofi:holiznacc0--opinions",
       "title": "Opinions",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/HDIcgsn9VvvdBleoTQhfJzw8TAmiJ2IJFEmprHI0.mp3",
-      "was_lufs": -13.3,
+      "status": "kept",
       "seconds": 168
     },
     {
       "id": "lofi:holiznacc0--quiet-houses",
       "title": "Quiet Houses",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ovBx5OO8N5hBE3mgGOo5f4AvYOhus0axzaWFs2LL.mp3",
-      "was_lufs": -12.5,
+      "status": "kept",
       "seconds": 196
     },
     {
       "id": "lofi:holiznacc0--credit-cards",
       "title": "Credit Cards",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/RLrhW3Vws1UheIMCjiUgOt2QCGRCo5o2wxOYMNg0.mp3",
-      "was_lufs": -12.3,
+      "status": "kept",
       "seconds": 154
     },
     {
       "id": "lofi:holiznacc0--crime",
       "title": "Crime",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/FuUSTu9hyPFVtz4FZehe70zXsfihnjbyWchqkCWY.mp3",
-      "was_lufs": -11.2,
+      "status": "kept",
       "seconds": 192
     },
     {
       "id": "lofi:holiznacc0--confusion",
       "title": "Confusion",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/I6oMfbTh6nok52UMXda2SD9NWwu3tPOvXYnrRakY.mp3",
-      "was_lufs": -8.2,
+      "status": "kept",
       "seconds": 117
     },
     {
       "id": "lofi:holiznacc0--dream-pop",
       "title": "Dream Pop",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/5Jp5lEJjcyWJVThpZT0yTuGe4HXT3eXeW5zgLofC.mp3",
-      "was_lufs": -12.5,
+      "status": "kept",
       "seconds": 241
     },
     {
       "id": "lofi:holiznacc0--fractured",
       "title": "Fractured",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/OKTeJladHnsapUepN68pWvlah2q7hLd7FlDHO15U.mp3",
-      "was_lufs": -12.0,
+      "status": "kept",
       "seconds": 144
     },
     {
       "id": "lofi:holiznacc0--tranquil-mindscape",
       "title": "Tranquil Mindscape",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/uxGaqYrlWHy1w4jA6fJki0NlNx6xkkFG5BMwI8JN.mp3",
-      "was_lufs": -14.3,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--bubbles",
       "title": "Bubbles",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/zh5usndkyEfVvKOz8dvsrCd1Ga0jfz4xIcLUendD.mp3",
-      "was_lufs": -14.3,
+      "status": "kept",
       "seconds": 148
     },
     {
       "id": "lofi:holiznacc0--calm-currents",
       "title": "Calm Currents",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4rKapZUMNnNSPAOvpjlfSH6B5Ib8rgEWdvjnM7C6.mp3",
-      "was_lufs": -15.5,
+      "status": "kept",
       "seconds": 148
     },
     {
       "id": "lofi:holiznacc0--canon-event",
       "title": "Canon Event",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/GLpVlXSJolOAOZSAMyf5ONpjKXfnnKbugQhR7GxD.mp3",
-      "was_lufs": -15.5,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--birds",
       "title": "Birds",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/BmyGmEp4zz8Ylei2chsvoO4B4P80jWaF8K4bppSF.mp3",
-      "was_lufs": -16.4,
+      "status": "kept",
       "seconds": 165
     },
     {
       "id": "lofi:holiznacc0--doodles",
       "title": "Doodles",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rQGj86J7JXRwu3BRKtB6GIfnwCwI5slkTwfTWqvI.mp3",
-      "was_lufs": -11.3,
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "lofi:holiznacc0--ghost-town",
       "title": "Ghost Town",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/cR9QozfFah1QF4bmIg150gJsibgGDA3EX4m7Iova.mp3",
-      "was_lufs": -15.8,
+      "status": "kept",
       "seconds": 170
     },
     {
       "id": "lofi:holiznacc0--theta-frequency",
       "title": "Theta Frequency",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rSIDyunfJfiKNelwFuwbGKoLj5TO8eHFbdSa1zAb.mp3",
-      "was_lufs": -13.8,
+      "status": "kept",
       "seconds": 127
     },
     {
       "id": "lofi:holiznacc0--tokyo-sunset",
       "title": "Tokyo Sunset",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Xnd9Hr5AVzB68IlWcImKtXPlwCePD2G2m8ZFSVj4.mp3",
-      "was_lufs": -16.1,
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "lofi:holiznacc0--peaceful-drift",
       "title": "Peaceful Drift",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/SQvtLguk6S1VSthv0oXWycoB6ipUS0pt8jzAxxPq.mp3",
-      "was_lufs": -16.4,
+      "status": "kept",
       "seconds": 127
     },
     {
       "id": "lofi:holiznacc0--going-home",
       "title": "Going Home",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QdFLnSYEYDIThwBrSukcnPloklLuCyXGkkwYclJE.mp3",
-      "was_lufs": -15.4,
+      "status": "kept",
       "seconds": 146
     },
     {
       "id": "lofi:holiznacc0--shimmer",
       "title": "Shimmer",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JX8dB2Y2tCty4tibXtqqd04m1IVgPegvzOeLOSzP.mp3",
-      "was_lufs": -14.9,
+      "status": "kept",
       "seconds": 178
     },
     {
       "id": "lofi:holiznacc0--down-time",
       "title": "Down Time",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/HXpGyFBObrT0P6D50O8gDWbuEmcOeFRZfcqKsc6C.mp3",
-      "was_lufs": -11.4,
+      "status": "kept",
       "seconds": 130
     },
     {
       "id": "lofi:holiznacc0--nine-to-death",
       "title": "Nine To Death",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/NeWWEvcW3OV64fNtbkF0wOElg3SMeTW7Hv1Lutzq.mp3",
-      "was_lufs": -11.6,
+      "status": "kept",
       "seconds": 166
     },
     {
       "id": "lofi:holiznacc0--walking-away",
       "title": "Walking Away",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/WOtcP3GhbgTD8CuC6sEgpQOEXMyNeXYbTNmHjgN6.mp3",
-      "was_lufs": -13.8,
+      "status": "kept",
       "seconds": 156
     },
     {
       "id": "lofi:holiznacc0--forgotten-keep-sakes",
       "title": "Forgotten Keep Sakes",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/EGyWUVyHs2ZTBbPNKO9Ci4SWdSNUrIQ3kMLQvO0K.mp3",
-      "was_lufs": -10.7,
+      "status": "kept",
       "seconds": 191
     },
     {
       "id": "lofi:holiznacc0--one-good-day",
       "title": "One Good Day",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/AQCAheI92mWqsSgQeYLB6CZ3J1hiaGZgtmA9VCes.mp3",
-      "was_lufs": -14.1,
+      "status": "kept",
       "seconds": 124
     },
     {
       "id": "lofi:holiznacc0--before-everything",
       "title": "Before Everything",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/OBnrMKKYEb6Plx3lJXfnxB3HnIhXFvl0js1TD5Qe.mp3",
-      "was_lufs": -15.8,
+      "status": "kept",
       "seconds": 171
     },
     {
       "id": "lofi:holiznacc0--when-i-was-human",
       "title": "When I Was Human",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ChrX4PnONgrlvh9m2tgYBpK7mwnbfpLJoo36OOFW.mp3",
-      "was_lufs": -12.4,
+      "status": "kept",
       "seconds": 152
     },
     {
       "id": "lofi:holiznacc0--yet-again",
       "title": "Yet Again",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rila38RsMi1HTH23WeP4RunH9OdUqllcSjmbLuBZ.mp3",
-      "was_lufs": -11.9,
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "lofi:holiznacc0--ode-to-forgetting",
       "title": "Ode To Forgetting",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PLQGg8DdEVSSXOKsRcI8y1yqEzOVoPA6yIdI7OLR.mp3",
-      "was_lufs": -13.6,
+      "status": "kept",
       "seconds": 185
     },
     {
       "id": "lofi:holiznacc0--break-from-reality",
       "title": "Break From Reality",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/g7178iFIj4tQDmJyLvn9CFp3D5xbrQOrWNiXyuy3.mp3",
-      "was_lufs": -11.4,
+      "status": "kept",
       "seconds": 207
     },
     {
       "id": "lofi:holiznacc0--ocean-breeze",
       "title": "Ocean Breeze",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7ahdWvuUuDCVriuh5RvYsl96eUmAJuaVvC30sqlW.mp3",
-      "was_lufs": -11.8,
+      "status": "kept",
       "seconds": 197
     },
     {
       "id": "lofi:holiznacc0--saturation",
       "title": "Saturation",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/AzjU0CJxOfUq7297vkoAR1oh6oz2JHI3aOlzjVOV.mp3",
-      "was_lufs": -11.3,
+      "status": "kept",
       "seconds": 156
     },
     {
       "id": "lofi:holiznacc0--wave-maker",
       "title": "Wave Maker",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/SbPJTWMnBmT5yBsXP4jLfp6RsvWLhfOnbw2PxXol.mp3",
-      "was_lufs": -14.5,
+      "status": "kept",
       "seconds": 182
     },
     {
       "id": "lofi:holiznacc0--on-the-other-side-of-bad",
       "title": "On The Other Side Of Bad",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/SydUxNdOMKNpndCo54UUoWpEpCSZucGf1O4RiniB.mp3",
-      "was_lufs": -10.8,
+      "status": "kept",
       "seconds": 182
     },
     {
       "id": "lofi:holiznacc0--orbs-in-a-photo",
       "title": "Orbs In A Photo",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/8VYwiA4OCIwhSUIblz3LrYKmMwjbm0kqXE1ex72s.mp3",
-      "was_lufs": -14.6,
+      "status": "kept",
       "seconds": 219
     },
     {
       "id": "lofi:holiznacc0--complicated-feelings",
       "title": "Complicated Feelings",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/jEFkzWNxxtz76vjPoUOjZALHvdK3HkVMQAnGpgTn.mp3",
-      "was_lufs": -14.5,
+      "status": "kept",
       "seconds": 158
     },
     {
       "id": "lofi:holiznacc0--wetlands",
       "title": "Wetlands",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4ZpahEeu0NHfAIjJXrlAvVUg8C4y71ycbjonRGke.mp3",
-      "was_lufs": -18.3,
+      "status": "kept",
       "seconds": 161
     },
     {
       "id": "lofi:holiznacc0--projector-screen",
       "title": "Projector Screen",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/SrYI6LJrSooBuV1Vz7XocwyKdkoXRFyNpgzn0lI4.mp3",
-      "was_lufs": -11.7,
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "lofi:holiznacc0--tetrapod",
       "title": "Tetrapod",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/72xovHrx2omG9GVZFccmSNfUYd59V4HdR7Rt9ioJ.mp3",
-      "was_lufs": -14.3,
+      "status": "kept",
       "seconds": 143
     },
     {
       "id": "lofi:holiznacc0--dreamshifter",
       "title": "Dreamshifter",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/u3xjENJMKOtoKQIL2wFKohuXvNimTXRPWLldST7m.mp3",
-      "was_lufs": -17.9,
+      "status": "kept",
       "seconds": 146
     },
     {
       "id": "lofi:holiznacc0--orchid",
       "title": "Orchid",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/B6Wka3vwBPJeW0b8cHIdu7Yj4rMI6518AmmSyJ0L.mp3",
-      "was_lufs": -14.3,
+      "status": "kept",
       "seconds": 191
     },
     {
       "id": "lofi:holiznacc0--summer-break",
       "title": "Summer Break",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/9lO4AYmwyGCp44JI80uCvfg0XgX1NgCvd8EgzKZN.mp3",
-      "was_lufs": -11.7,
+      "status": "kept",
       "seconds": 168
     },
     {
       "id": "lofi:holiznacc0--the-best-of-times",
       "title": "The Best Of Times",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/HCZ95XWg57g1Y9ZyGLt8Fo9od9G1BzKhJySWaSPt.mp3",
-      "was_lufs": -11.4,
+      "status": "kept",
       "seconds": 168
     },
     {
       "id": "lofi:holiznacc0--infinite-echoes",
       "title": "Infinite Echoes",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/fNTwTe4hAptJKPxgouogjFHY3KUWqInieyDckOSk.mp3",
-      "was_lufs": -12.7,
+      "status": "kept",
       "seconds": 140
     },
     {
       "id": "lofi:holiznacc0--transient",
       "title": "Transient",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/pWffJMWaygHLNlmFdUcviCsvakZzUne5QSkfgGv9.mp3",
-      "was_lufs": -14.4,
+      "status": "kept",
       "seconds": 163
     },
     {
       "id": "lofi:holiznacc0--into-the-mist",
       "title": "Into The Mist",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/cI5iv9Xga0OOvGsS7mGZn9BlTshZdzAqLW7bmArA.mp3",
-      "was_lufs": -13.8,
+      "status": "kept",
       "seconds": 130
     },
     {
       "id": "lofi:holiznacc0--chills",
       "title": "Chills",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/EEUTmouPW0aja8LiUYQdc5NIrAmVAhY2LzHyXW8T.mp3",
-      "was_lufs": -11.9,
+      "status": "kept",
       "seconds": 173
     },
     {
       "id": "lofi:holiznacc0--feeling-human-again",
       "title": "Feeling Human Again",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/34HeXCcKQZgCc2eJyy2SN7advmBQKLN82bCHYpFL.mp3",
-      "was_lufs": -14.5,
+      "status": "kept",
       "seconds": 231
     },
     {
       "id": "lofi:holiznacc0--toy-box",
       "title": "Toy Box",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/04mkhAeFGClmKwwsdfUfLZX1wrROoSQl2A6GsW28.mp3",
-      "was_lufs": -16.8,
+      "status": "kept",
       "seconds": 154
     },
     {
       "id": "lofi:holiznacc0--foley-of-man",
       "title": "Foley Of Man",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/iVx0Pgi5qM2PpLLLBibux23P6ep8nakeQwOaCJSS.mp3",
-      "was_lufs": -15.5,
+      "status": "kept",
       "seconds": 131
     },
     {
       "id": "lofi:holiznacc0--hope-on-repeat",
       "title": "Hope On Repeat",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/MvP2fPRhrWkQwsrgVB7U9rqSgLBtOfbD0vssM4LP.mp3",
-      "was_lufs": -16.0,
+      "status": "kept",
       "seconds": 162
     },
     {
       "id": "lofi:holiznacc0--spring-in-sight",
       "title": "Spring In Sight",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/gB8bYfRNFcBbVVlfcKy1geZIynWwq4JzuejzBIYI.mp3",
-      "was_lufs": -17.1,
+      "status": "kept",
       "seconds": 131
     },
     {
       "id": "lofi:holiznacc0--seasonal-depression",
       "title": "Seasonal Depression",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/jdFmJkKA6nwtgq8gHN92PIlNDPOhMx49In253svl.mp3",
-      "was_lufs": -18.6,
+      "status": "kept",
       "seconds": 138
     },
     {
       "id": "lofi:holiznacc0--roof-tops",
       "title": "Roof Tops",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2hFTiuqYI7onbLzpi9ldoBP8AYeuStsCUxTqm6vd.mp3",
-      "was_lufs": -15.5,
+      "status": "kept",
       "seconds": 212
     },
     {
       "id": "lofi:holiznacc0--summer-felt-longer-then",
       "title": "Summer Felt Longer Then",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/zkDdPJDaJ75X1AGXxiqQr48QZ7JLEnCXIxmRdzZu.mp3",
-      "was_lufs": -21.0,
+      "status": "kept",
       "seconds": 226
     },
     {
       "id": "lofi:holiznacc0--the-last-long-day",
       "title": "The Last Long Day",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Rr1abyEsuIJmRgO0O9CVaCOMUa3MT6CB3TjrfKfK.mp3",
-      "was_lufs": -14.8,
+      "status": "kept",
       "seconds": 140
     },
     {
       "id": "lofi:holiznacc0--august-never-lasts",
       "title": "August Never Lasts",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/xY61Jdd0qLKdI8245OtZQc7XOxTgJo2zn2tY8vW6.mp3",
-      "was_lufs": -12.6,
+      "status": "kept",
       "seconds": 157
     },
     {
       "id": "lofi:holiznacc0--faded-in-the-sunlight",
       "title": "Faded in the Sunlight",
       "artist": "HoliznaCC0",
-      "status": "mastered",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/N2IaHMtlOUlfXdZHt4UGciKbJV7mB4vemZjAlj5K.mp3",
-      "was_lufs": -16.4,
+      "status": "kept",
       "seconds": 176
     }
   ]
